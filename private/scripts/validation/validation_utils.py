@@ -10,6 +10,7 @@ from typing import Any
 
 ROOT = Path(__file__).resolve().parents[3]
 COMPLETE_JSON = ROOT / "private" / "complete" / "TUCC_2026-07-18.json"
+LOCALITIES_JSON = ROOT / "private" / "complete" / "localities_2026-07-18.json"
 DATABASE_DIR = ROOT / "private" / "validation" / "database"
 
 
@@ -19,6 +20,18 @@ def load_complete_records() -> list[dict[str, Any]]:
     if not isinstance(records, list):
         raise ValueError(f"{COMPLETE_JSON} must contain a JSON array")
     return records
+
+
+def load_locality_records() -> list[dict[str, Any]]:
+    with LOCALITIES_JSON.open(encoding="utf-8") as handle:
+        records = json.load(handle)
+    if not isinstance(records, list):
+        raise ValueError(f"{LOCALITIES_JSON} must contain a JSON array")
+    return records
+
+
+def locality_by_id() -> dict[str, dict[str, Any]]:
+    return {field_value(record, "ID"): record for record in load_locality_records()}
 
 
 def as_values(value: Any) -> list[str]:
@@ -80,3 +93,12 @@ def field_year(record: dict[str, Any], field: str) -> str:
 
 def field_missing(record: dict[str, Any], field: str) -> bool:
     return not as_values(record.get(field))
+
+
+def geo_origin(record: dict[str, Any]) -> str:
+    return field_value(record, "GeoOrigin")
+
+
+def locality_value(record: dict[str, Any], localities: dict[str, dict[str, Any]], field: str) -> str:
+    locality = localities.get(geo_origin(record), {})
+    return field_value(locality, field)

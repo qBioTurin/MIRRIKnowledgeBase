@@ -1129,3 +1129,378 @@ Outputs:
 - Format: TSV with header
 - Columns: `accessionnumber`
 - Data rows: 2001
+
+## Q046
+
+Request text:
+
+> Give me all strains with `GeoOrigin = L000570`.
+
+Interpretation:
+
+List all strains whose explicit `GeoOrigin` field is equal to `L000570`. Strains are identified only by `accessionnumber`.
+
+For the database-side validation, the source is `private/complete/TUCC_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q046_geoorigin_L000570.py](../scripts/validation/Q046_geoorigin_L000570.py)
+
+Outputs:
+
+- Database file: [Q046_geoorigin_L000570.tsv](database/Q046_geoorigin_L000570.tsv)
+- Format: TSV with header
+- Columns: `accessionnumber`
+- Data rows: 18
+
+## Q047
+
+Request text:
+
+> Give me all strains collected in Italy.
+
+Interpretation:
+
+List all strains whose explicit `GeoOrigin` resolves to a locality record with `Country = Italy`.
+
+For the database-side validation, the sources are `private/complete/TUCC_2026-07-18.json` and `private/complete/localities_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q047_geoorigin_country_italy.py](../scripts/validation/Q047_geoorigin_country_italy.py)
+
+Outputs:
+
+- Database file: [Q047_geoorigin_country_italy.tsv](database/Q047_geoorigin_country_italy.tsv)
+- Format: TSV with header
+- Columns: `accessionnumber`
+- Data rows: 5901
+
+## Q048
+
+Request text:
+
+> Give me all strains collected in Torino.
+
+Interpretation:
+
+List all strains whose explicit `GeoOrigin` resolves to a locality record with `City = Torino`.
+
+For the database-side validation, the sources are `private/complete/TUCC_2026-07-18.json` and `private/complete/localities_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q048_geoorigin_city_torino.py](../scripts/validation/Q048_geoorigin_city_torino.py)
+
+Outputs:
+
+- Database file: [Q048_geoorigin_city_torino.tsv](database/Q048_geoorigin_city_torino.tsv)
+- Format: TSV with header
+- Columns: `accessionnumber`
+- Data rows: 81
+
+## Q049
+
+Request text:
+
+> Give me all strains associated with `Parco del Meisino - Orto 53`.
+
+Interpretation:
+
+List all strains whose explicit `GeoOrigin` resolves to a locality record with `Locality = Parco del Meisino - Orto 53`.
+
+For the database-side validation, the sources are `private/complete/TUCC_2026-07-18.json` and `private/complete/localities_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q049_geoorigin_locality_parco_del_meisino_orto_53.py](../scripts/validation/Q049_geoorigin_locality_parco_del_meisino_orto_53.py)
+
+Outputs:
+
+- Database file: [Q049_geoorigin_locality_parco_del_meisino_orto_53.tsv](database/Q049_geoorigin_locality_parco_del_meisino_orto_53.tsv)
+- Format: TSV with header
+- Columns: `accessionnumber`
+- Data rows: 107
+
+## Q050
+
+Request text:
+
+> How many strains are there per country?
+
+Interpretation:
+
+Resolve each strain's explicit `GeoOrigin` to a locality record and count strains by `Country`.
+
+For the database-side validation, the sources are `private/complete/TUCC_2026-07-18.json` and `private/complete/localities_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q050_strain_count_by_country.py](../scripts/validation/Q050_strain_count_by_country.py)
+
+Outputs:
+
+- Database file: [Q050_strain_count_by_country.tsv](database/Q050_strain_count_by_country.tsv)
+- Format: TSV with header
+- Columns: `country`, `strain_count`
+- Data rows: 41
+
+## Q051
+
+Request text:
+
+> How many strains are there per city?
+
+Interpretation:
+
+Resolve each strain's explicit `GeoOrigin` to a locality record and count strains by `City`.
+
+For the database-side validation, the sources are `private/complete/TUCC_2026-07-18.json` and `private/complete/localities_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q051_strain_count_by_city.py](../scripts/validation/Q051_strain_count_by_city.py)
+
+Outputs:
+
+- Database file: [Q051_strain_count_by_city.tsv](database/Q051_strain_count_by_city.tsv)
+- Format: TSV with header
+- Columns: `city`, `strain_count`
+- Data rows: 194
+
+## Q052
+
+Request text:
+
+> Which habitats have the most associated strains?
+
+Interpretation:
+
+Treat geographic habitats as explicit `GeoOrigin` locality records, count associated strains per `GeoOrigin`, and sort by descending strain count.
+
+For the database-side validation, the sources are `private/complete/TUCC_2026-07-18.json` and `private/complete/localities_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q052_geographic_habitats_by_associated_strain_count.py](../scripts/validation/Q052_geographic_habitats_by_associated_strain_count.py)
+
+Outputs:
+
+- Database file: [Q052_geographic_habitats_by_associated_strain_count.tsv](database/Q052_geographic_habitats_by_associated_strain_count.tsv)
+- Format: TSV with header
+- Columns: `geoorigin`, `country`, `city`, `locality`, `strain_count`
+- Data rows: 941
+
+## Q053
+
+Request text:
+
+> Which habitats have only one associated strain?
+
+Interpretation:
+
+Treat geographic habitats as explicit `GeoOrigin` locality records and list `GeoOrigin` values associated with exactly one strain.
+
+For the database-side validation, the sources are `private/complete/TUCC_2026-07-18.json` and `private/complete/localities_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q053_geographic_habitats_with_one_strain.py](../scripts/validation/Q053_geographic_habitats_with_one_strain.py)
+
+Outputs:
+
+- Database file: [Q053_geographic_habitats_with_one_strain.tsv](database/Q053_geographic_habitats_with_one_strain.tsv)
+- Format: TSV with header
+- Columns: `geoorigin`, `country`, `city`, `locality`, `strain_count`
+- Data rows: 559
+
+## Q054
+
+Request text:
+
+> Give me all strains from `Mediterranean Sea`.
+
+Interpretation:
+
+List all strains whose explicit `IsolationHabitat` field is equal to `Mediterranean Sea`.
+
+For the database-side validation, the source is `private/complete/TUCC_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q054_isolation_habitat_mediterranean_sea.py](../scripts/validation/Q054_isolation_habitat_mediterranean_sea.py)
+
+Outputs:
+
+- Database file: [Q054_isolation_habitat_mediterranean_sea.tsv](database/Q054_isolation_habitat_mediterranean_sea.tsv)
+- Format: TSV with header
+- Columns: `accessionnumber`
+- Data rows: 1195
+
+## Q055
+
+Request text:
+
+> Give me all strains whose `IsolationHabitat` is equal to `Ex urban garden`.
+
+Interpretation:
+
+List all strains whose explicit `IsolationHabitat` field is equal to `Ex urban garden`.
+
+For the database-side validation, the source is `private/complete/TUCC_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q055_isolation_habitat_ex_urban_garden.py](../scripts/validation/Q055_isolation_habitat_ex_urban_garden.py)
+
+Outputs:
+
+- Database file: [Q055_isolation_habitat_ex_urban_garden.tsv](database/Q055_isolation_habitat_ex_urban_garden.tsv)
+- Format: TSV with header
+- Columns: `accessionnumber`
+- Data rows: 61
+
+## Q056
+
+Request text:
+
+> Give me all strains whose `IsolationHabitat` contains `soil`.
+
+Interpretation:
+
+List all strains whose explicit `IsolationHabitat` field contains the text `soil`, using case-insensitive substring matching.
+
+For the database-side validation, the source is `private/complete/TUCC_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q056_isolation_habitat_contains_soil.py](../scripts/validation/Q056_isolation_habitat_contains_soil.py)
+
+Outputs:
+
+- Database file: [Q056_isolation_habitat_contains_soil.tsv](database/Q056_isolation_habitat_contains_soil.tsv)
+- Format: TSV with header
+- Columns: `accessionnumber`
+- Data rows: 514
+
+## Q057
+
+Request text:
+
+> Give me all strains with geographic habitat but without `IsolationHabitat`.
+
+Interpretation:
+
+List all strains where explicit `GeoOrigin` is present and explicit `IsolationHabitat` is absent or empty.
+
+For the database-side validation, the source is `private/complete/TUCC_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q057_geoorigin_present_isolation_habitat_missing.py](../scripts/validation/Q057_geoorigin_present_isolation_habitat_missing.py)
+
+Outputs:
+
+- Database file: [Q057_geoorigin_present_isolation_habitat_missing.tsv](database/Q057_geoorigin_present_isolation_habitat_missing.tsv)
+- Format: TSV with header
+- Columns: `accessionnumber`
+- Data rows: 2646
+
+## Q058
+
+Request text:
+
+> Give me all strains without `GeoOrigin`.
+
+Interpretation:
+
+List all strains where explicit `GeoOrigin` is absent or empty.
+
+For the database-side validation, the source is `private/complete/TUCC_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q058_geoorigin_missing.py](../scripts/validation/Q058_geoorigin_missing.py)
+
+Outputs:
+
+- Database file: [Q058_geoorigin_missing.tsv](database/Q058_geoorigin_missing.tsv)
+- Format: TSV with header
+- Columns: `accessionnumber`
+- Data rows: 335
+
+## Q059
+
+Request text:
+
+> Give me all strains that share the habitat with `TUCC00000735`.
+
+Interpretation:
+
+Interpret shared habitat as the same explicit geographic habitat (`GeoOrigin`) because `TUCC00000735` has no explicit `IsolationHabitat`. The target has `GeoOrigin = L000854`; list all other strains with the same `GeoOrigin`. The target strain itself is excluded from the output.
+
+For the database-side validation, the source is `private/complete/TUCC_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q059_same_geographic_habitat_as_TUCC00000735.py](../scripts/validation/Q059_same_geographic_habitat_as_TUCC00000735.py)
+
+Outputs:
+
+- Database file: [Q059_same_geographic_habitat_as_TUCC00000735.tsv](database/Q059_same_geographic_habitat_as_TUCC00000735.tsv)
+- Format: TSV with header
+- Columns: `accessionnumber`
+- Data rows: 3
+
+## Q060
+
+Request text:
+
+> Give me all strains that share the habitat with `MUT00007136`.
+
+Interpretation:
+
+Interpret shared habitat as the same explicit geographic habitat (`GeoOrigin`). The target has `GeoOrigin = L000569`; list all other strains with the same `GeoOrigin`. The target strain itself is excluded from the output.
+
+For the database-side validation, the source is `private/complete/TUCC_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q060_same_geographic_habitat_as_MUT00007136.py](../scripts/validation/Q060_same_geographic_habitat_as_MUT00007136.py)
+
+Outputs:
+
+- Database file: [Q060_same_geographic_habitat_as_MUT00007136.tsv](database/Q060_same_geographic_habitat_as_MUT00007136.tsv)
+- Format: TSV with header
+- Columns: `accessionnumber`
+- Data rows: 38

@@ -179,3 +179,63 @@ Give me all strains collected before 2010.
 ## Q045
 
 Give me all strains included after 2020.
+
+## Q046
+
+Give me all strains with `GeoOrigin = L000570`.
+
+## Q047
+
+Give me all strains collected in Italy.
+
+## Q048
+
+Give me all strains collected in Torino.
+
+## Q049
+
+Give me all strains associated with `Parco del Meisino - Orto 53`.
+
+## Q050
+
+How many strains are there per country?
+
+## Q051
+
+How many strains are there per city?
+
+## Q052
+
+Which habitats have the most associated strains?
+
+## Q053
+
+Which habitats have only one associated strain?
+
+## Q054
+
+Give me all strains from `Mediterranean Sea`.
+
+## Q055
+
+Give me all strains whose `IsolationHabitat` is equal to `Ex urban garden`.
+
+## Q056
+
+Give me all strains whose `IsolationHabitat` contains `soil`.
+
+## Q057
+
+Give me all strains with geographic habitat but without `IsolationHabitat`.
+
+## Q058
+
+Give me all strains without `GeoOrigin`.
+
+## Q059
+
+Give me all strains that share the habitat with `TUCC00000735`.
+
+## Q060
+
+Give me all strains that share the habitat with `MUT00007136`.
