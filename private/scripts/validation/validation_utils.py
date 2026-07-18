@@ -11,7 +11,9 @@ from typing import Any
 ROOT = Path(__file__).resolve().parents[3]
 COMPLETE_JSON = ROOT / "private" / "complete" / "TUCC_2026-07-18.json"
 LOCALITIES_JSON = ROOT / "private" / "complete" / "localities_2026-07-18.json"
+PEOPLE_JSON = ROOT / "private" / "complete" / "people_2026-07-18.json"
 DATABASE_DIR = ROOT / "private" / "validation" / "database"
+PERSON_ROLE_FIELDS = ["Collector", "Depositor", "Isolator"]
 
 
 def load_complete_records() -> list[dict[str, Any]]:
@@ -30,8 +32,20 @@ def load_locality_records() -> list[dict[str, Any]]:
     return records
 
 
+def load_people_records() -> list[dict[str, Any]]:
+    with PEOPLE_JSON.open(encoding="utf-8") as handle:
+        records = json.load(handle)
+    if not isinstance(records, list):
+        raise ValueError(f"{PEOPLE_JSON} must contain a JSON array")
+    return records
+
+
 def locality_by_id() -> dict[str, dict[str, Any]]:
     return {field_value(record, "ID"): record for record in load_locality_records()}
+
+
+def people_by_id() -> dict[str, dict[str, Any]]:
+    return {field_value(record, "ID"): record for record in load_people_records()}
 
 
 def as_values(value: Any) -> list[str]:
@@ -95,6 +109,13 @@ def field_missing(record: dict[str, Any], field: str) -> bool:
     return not as_values(record.get(field))
 
 
+def semicolon_values(value: Any) -> list[str]:
+    values: list[str] = []
+    for item in as_values(value):
+        values.extend(part.strip() for part in item.split(";") if part.strip())
+    return values
+
+
 def geo_origin(record: dict[str, Any]) -> str:
     return field_value(record, "GeoOrigin")
 
@@ -102,3 +123,34 @@ def geo_origin(record: dict[str, Any]) -> str:
 def locality_value(record: dict[str, Any], localities: dict[str, dict[str, Any]], field: str) -> str:
     locality = localities.get(geo_origin(record), {})
     return field_value(locality, field)
+
+
+def person_name(person: dict[str, Any]) -> str:
+    first_name = field_value(person, "FName")
+    last_name = field_value(person, "LName")
+    return " ".join(part for part in [first_name, last_name] if part)
+
+
+def person_ids_by_name(name: str) -> list[str]:
+    return sorted(
+        field_value(person, "ID")
+        for person in load_people_records()
+        if person_name(person) == name and field_value(person, "ID")
+    )
+
+
+def person_label(person_id: str, people: dict[str, dict[str, Any]] | None = None) -> str:
+    people = people if people is not None else people_by_id()
+    person = people.get(person_id, {})
+    return person_name(person) or person_id
+
+
+def person_ids_for_record(record: dict[str, Any]) -> set[str]:
+    ids: set[str] = set()
+    for field in PERSON_ROLE_FIELDS:
+        ids.update(as_values(record.get(field)))
+    return ids
+
+
+def person_roles_for_record(record: dict[str, Any], person_id: str) -> list[str]:
+    return [field for field in PERSON_ROLE_FIELDS if person_id in as_values(record.get(field))]

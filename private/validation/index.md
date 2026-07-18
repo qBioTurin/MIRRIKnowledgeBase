@@ -1504,3 +1504,429 @@ Outputs:
 - Format: TSV with header
 - Columns: `accessionnumber`
 - Data rows: 38
+
+## Q061
+
+Request text:
+
+> Give me all strains collected by `Giovanna Cristina Varese`.
+
+Interpretation:
+
+Resolve `Giovanna Cristina Varese` to explicit person ID `P000252`, then list all strains whose explicit `Collector` field contains `P000252`.
+
+For the database-side validation, the sources are `private/complete/TUCC_2026-07-18.json` and `private/complete/people_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q061_collected_by_giovanna_cristina_varese.py](../scripts/validation/Q061_collected_by_giovanna_cristina_varese.py)
+
+Outputs:
+
+- Database file: [Q061_collected_by_giovanna_cristina_varese.tsv](database/Q061_collected_by_giovanna_cristina_varese.tsv)
+- Format: TSV with header
+- Columns: `accessionnumber`
+- Data rows: 840
+
+## Q062
+
+Request text:
+
+> Give me all strains deposited by `Giovanna Cristina Varese`.
+
+Interpretation:
+
+Resolve `Giovanna Cristina Varese` to explicit person ID `P000252`, then list all strains whose explicit `Depositor` field contains `P000252`.
+
+For the database-side validation, the sources are `private/complete/TUCC_2026-07-18.json` and `private/complete/people_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q062_deposited_by_giovanna_cristina_varese.py](../scripts/validation/Q062_deposited_by_giovanna_cristina_varese.py)
+
+Outputs:
+
+- Database file: [Q062_deposited_by_giovanna_cristina_varese.tsv](database/Q062_deposited_by_giovanna_cristina_varese.tsv)
+- Format: TSV with header
+- Columns: `accessionnumber`
+- Data rows: 2489
+
+## Q063
+
+Request text:
+
+> Give me all strains isolated by `Giovanna Cristina Varese`.
+
+Interpretation:
+
+Resolve `Giovanna Cristina Varese` to explicit person ID `P000252`, then list all strains whose explicit `Isolator` field contains `P000252`.
+
+For the database-side validation, the sources are `private/complete/TUCC_2026-07-18.json` and `private/complete/people_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q063_isolated_by_giovanna_cristina_varese.py](../scripts/validation/Q063_isolated_by_giovanna_cristina_varese.py)
+
+Outputs:
+
+- Database file: [Q063_isolated_by_giovanna_cristina_varese.tsv](database/Q063_isolated_by_giovanna_cristina_varese.tsv)
+- Format: TSV with header
+- Columns: `accessionnumber`
+- Data rows: 687
+
+## Q064
+
+Request text:
+
+> How many strains are associated with `P000252`?
+
+Interpretation:
+
+Count distinct strain records whose explicit `Collector`, `Depositor`, or `Isolator` fields contain `P000252`.
+
+For the database-side validation, the source is `private/complete/TUCC_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q064_strain_count_associated_with_P000252.py](../scripts/validation/Q064_strain_count_associated_with_P000252.py)
+
+Outputs:
+
+- Database file: [Q064_strain_count_associated_with_P000252.tsv](database/Q064_strain_count_associated_with_P000252.tsv)
+- Format: TSV with header
+- Columns: `person_id`, `strain_count`
+- Data rows: 1
+- Result value: 2739
+
+## Q065
+
+Request text:
+
+> Which people have more than 100 associated strains?
+
+Interpretation:
+
+Count distinct strain records per person across explicit `Collector`, `Depositor`, and `Isolator` fields, then list people with more than 100 associated strains.
+
+For the database-side validation, the sources are `private/complete/TUCC_2026-07-18.json` and `private/complete/people_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q065_people_with_more_than_100_associated_strains.py](../scripts/validation/Q065_people_with_more_than_100_associated_strains.py)
+
+Outputs:
+
+- Database file: [Q065_people_with_more_than_100_associated_strains.tsv](database/Q065_people_with_more_than_100_associated_strains.tsv)
+- Format: TSV with header
+- Columns: `person_id`, `person_name`, `strain_count`
+- Data rows: 35
+
+## Q066
+
+Request text:
+
+> Give me all people associated with `TUCC00000735`.
+
+Interpretation:
+
+List all people present in the explicit `Collector`, `Depositor`, or `Isolator` fields of strain `TUCC00000735`, with their roles.
+
+For the database-side validation, the sources are `private/complete/TUCC_2026-07-18.json` and `private/complete/people_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q066_people_associated_with_TUCC00000735.py](../scripts/validation/Q066_people_associated_with_TUCC00000735.py)
+
+Outputs:
+
+- Database file: [Q066_people_associated_with_TUCC00000735.tsv](database/Q066_people_associated_with_TUCC00000735.tsv)
+- Format: TSV with header
+- Columns: `person_id`, `person_name`, `roles`
+- Data rows: 3
+
+## Q067
+
+Request text:
+
+> Give me all people associated with `MUT00007136`.
+
+Interpretation:
+
+List all people present in the explicit `Collector`, `Depositor`, or `Isolator` fields of strain `MUT00007136`, with their roles.
+
+For the database-side validation, the sources are `private/complete/TUCC_2026-07-18.json` and `private/complete/people_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q067_people_associated_with_MUT00007136.py](../scripts/validation/Q067_people_associated_with_MUT00007136.py)
+
+Outputs:
+
+- Database file: [Q067_people_associated_with_MUT00007136.tsv](database/Q067_people_associated_with_MUT00007136.tsv)
+- Format: TSV with header
+- Columns: `person_id`, `person_name`, `roles`
+- Data rows: 2
+
+## Q068
+
+Request text:
+
+> Give me all strains that grow at recommended temperature `25`.
+
+Interpretation:
+
+List all strains whose explicit `RecommendedTempGrowth` field is equal to `25`.
+
+For the database-side validation, the source is `private/complete/TUCC_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q068_recommended_temp_growth_25.py](../scripts/validation/Q068_recommended_temp_growth_25.py)
+
+Outputs:
+
+- Database file: [Q068_recommended_temp_growth_25.tsv](database/Q068_recommended_temp_growth_25.tsv)
+- Format: TSV with header
+- Columns: `accessionnumber`
+- Data rows: 6005
+
+## Q069
+
+Request text:
+
+> Give me all strains that grow at recommended temperature `24`.
+
+Interpretation:
+
+List all strains whose explicit `RecommendedTempGrowth` field is equal to `24`.
+
+For the database-side validation, the source is `private/complete/TUCC_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q069_recommended_temp_growth_24.py](../scripts/validation/Q069_recommended_temp_growth_24.py)
+
+Outputs:
+
+- Database file: [Q069_recommended_temp_growth_24.tsv](database/Q069_recommended_temp_growth_24.tsv)
+- Format: TSV with header
+- Columns: `accessionnumber`
+- Data rows: 119
+
+## Q070
+
+Request text:
+
+> Give me all strains identified with technique `MALDI-TOF`.
+
+Interpretation:
+
+List all strains whose explicit `IdentificationTechnique` field includes `MALDI-TOF` as a semicolon-separated technique.
+
+For the database-side validation, the source is `private/complete/TUCC_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q070_identification_technique_maldi_tof.py](../scripts/validation/Q070_identification_technique_maldi_tof.py)
+
+Outputs:
+
+- Database file: [Q070_identification_technique_maldi_tof.tsv](database/Q070_identification_technique_maldi_tof.tsv)
+- Format: TSV with header
+- Columns: `accessionnumber`
+- Data rows: 362
+
+## Q071
+
+Request text:
+
+> Which strains have multiple identification techniques?
+
+Interpretation:
+
+Split the explicit `IdentificationTechnique` field on semicolons and list strains with more than one technique, sorted by descending technique count.
+
+For the database-side validation, the source is `private/complete/TUCC_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q071_strains_with_multiple_identification_techniques.py](../scripts/validation/Q071_strains_with_multiple_identification_techniques.py)
+
+Outputs:
+
+- Database file: [Q071_strains_with_multiple_identification_techniques.tsv](database/Q071_strains_with_multiple_identification_techniques.tsv)
+- Format: TSV with header
+- Columns: `accessionnumber`, `technique_count`, `identificationtechniques`
+- Data rows: 1519
+
+## Q072
+
+Request text:
+
+> Give me all strains with `RiskGroup = 2` and `AvailableForDis = Yes`.
+
+Interpretation:
+
+List all strains whose explicit `RiskGroup` field is equal to `2` and whose explicit `AvailableForDis` field is equal to `Yes`.
+
+For the database-side validation, the source is `private/complete/TUCC_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q072_riskgroup_2_available_for_distribution_yes.py](../scripts/validation/Q072_riskgroup_2_available_for_distribution_yes.py)
+
+Outputs:
+
+- Database file: [Q072_riskgroup_2_available_for_distribution_yes.tsv](database/Q072_riskgroup_2_available_for_distribution_yes.tsv)
+- Format: TSV with header
+- Columns: `accessionnumber`
+- Data rows: 795
+
+## Q073
+
+Request text:
+
+> Give me all strains with `UseRestrictions = 1`.
+
+Interpretation:
+
+List all strains whose explicit `UseRestrictions` field is equal to `1`.
+
+For the database-side validation, the source is `private/complete/TUCC_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q073_use_restrictions_1.py](../scripts/validation/Q073_use_restrictions_1.py)
+
+Outputs:
+
+- Database file: [Q073_use_restrictions_1.tsv](database/Q073_use_restrictions_1.tsv)
+- Format: TSV with header
+- Columns: `accessionnumber`
+- Data rows: 306
+
+## Q074
+
+Request text:
+
+> How many strains are there for each `RiskGroup`?
+
+Interpretation:
+
+Group strains by explicit `RiskGroup` value and count strains per group. Records without an explicit `RiskGroup` are not included in the grouped output.
+
+For the database-side validation, the source is `private/complete/TUCC_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q074_strain_count_by_riskgroup.py](../scripts/validation/Q074_strain_count_by_riskgroup.py)
+
+Outputs:
+
+- Database file: [Q074_strain_count_by_riskgroup.tsv](database/Q074_strain_count_by_riskgroup.tsv)
+- Format: TSV with header
+- Columns: `riskgroup`, `strain_count`
+- Data rows: 2
+
+## Q075
+
+Request text:
+
+> How many strains are there for each `OrganismType`?
+
+Interpretation:
+
+Group strains by explicit `OrganismType` value and count strains per organism type. Records without an explicit `OrganismType` are not included in the grouped output.
+
+For the database-side validation, the source is `private/complete/TUCC_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q075_strain_count_by_organism_type.py](../scripts/validation/Q075_strain_count_by_organism_type.py)
+
+Outputs:
+
+- Database file: [Q075_strain_count_by_organism_type.tsv](database/Q075_strain_count_by_organism_type.tsv)
+- Format: TSV with header
+- Columns: `organismtype`, `strain_count`
+- Data rows: 3
+
+## Q076
+
+Request text:
+
+> Which are the 20 most represented genera?
+
+Interpretation:
+
+Count strains by explicit `Genus` value and return the 20 genera with the highest strain counts, sorted by descending count and then genus name.
+
+For the database-side validation, the source is `private/complete/TUCC_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q076_top_20_genera_by_strain_count.py](../scripts/validation/Q076_top_20_genera_by_strain_count.py)
+
+Outputs:
+
+- Database file: [Q076_top_20_genera_by_strain_count.tsv](database/Q076_top_20_genera_by_strain_count.tsv)
+- Format: TSV with header
+- Columns: `genus`, `strain_count`
+- Data rows: 20
+
+## Q077
+
+Request text:
+
+> Which are the 20 most represented species?
+
+Interpretation:
+
+Count strains by explicit `Genus` and `Species` values and return the 20 species-level pairs with the highest strain counts, sorted by descending count and then taxon name. Records missing either `Genus` or `Species` are not included.
+
+For the database-side validation, the source is `private/complete/TUCC_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q077_top_20_species_by_strain_count.py](../scripts/validation/Q077_top_20_species_by_strain_count.py)
+
+Outputs:
+
+- Database file: [Q077_top_20_species_by_strain_count.tsv](database/Q077_top_20_species_by_strain_count.tsv)
+- Format: TSV with header
+- Columns: `genus`, `species`, `strain_count`
+- Data rows: 20

@@ -239,3 +239,71 @@ Give me all strains that share the habitat with `TUCC00000735`.
 ## Q060
 
 Give me all strains that share the habitat with `MUT00007136`.
+
+## Q061
+
+Give me all strains collected by `Giovanna Cristina Varese`.
+
+## Q062
+
+Give me all strains deposited by `Giovanna Cristina Varese`.
+
+## Q063
+
+Give me all strains isolated by `Giovanna Cristina Varese`.
+
+## Q064
+
+How many strains are associated with `P000252`?
+
+## Q065
+
+Which people have more than 100 associated strains?
+
+## Q066
+
+Give me all people associated with `TUCC00000735`.
+
+## Q067
+
+Give me all people associated with `MUT00007136`.
+
+## Q068
+
+Give me all strains that grow at recommended temperature `25`.
+
+## Q069
+
+Give me all strains that grow at recommended temperature `24`.
+
+## Q070
+
+Give me all strains identified with technique `MALDI-TOF`.
+
+## Q071
+
+Which strains have multiple identification techniques?
+
+## Q072
+
+Give me all strains with `RiskGroup = 2` and `AvailableForDis = Yes`.
+
+## Q073
+
+Give me all strains with `UseRestrictions = 1`.
+
+## Q074
+
+How many strains are there for each `RiskGroup`?
+
+## Q075
+
+How many strains are there for each `OrganismType`?
+
+## Q076
+
+Which are the 20 most represented genera?
+
+## Q077
+
+Which are the 20 most represented species?
