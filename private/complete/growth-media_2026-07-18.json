@@ -1,0 +1,277 @@
+[
+  {
+    "Acronym": "AC",
+    "Description": "Agar Casein",
+    "FullDescription": "Agar Casein"
+  },
+  {
+    "Acronym": "AFPA",
+    "Description": "Aspergillus flavus and parasiticus agar"
+  },
+  {
+    "Acronym": "ALOA",
+    "Description": "Agar Listeria acc. To Ottaviani & Agosti",
+    "FullDescription": "Peptone 18.00 g/L; Tryptone 6.00 g/L; Yeast extract 10.00 g/L; Sodium pyruvate 2.00 g/L; Glucose 2.00 g/L; Magnesium glycerophosphate 1.00 g/L; Magnesium sulfate 0.50 g/L; NaCl 5.00 g/L; LiCl2 10.00 g/L; Disodium hydrogen phosphate anhydrous 2.50 g/L; 5-bromo-4-chloro-3-indolyl- β -D-glucopyranoside 0.05 g/L; Agar 13.5 g/L"
+  },
+  {
+    "Acronym": "ASA",
+    "Description": "Arcobacter selective agar",
+    "FullDescription": "Peptone 18.0 g/L; Yeast extract 1.0  g/L; Sodium chloride 5.0 g/L; CCDA selective supplement (Cefoperazone 32mg/L, Amphotericin B 10mg/L)"
+  },
+  {
+    "Acronym": "ASB",
+    "Description": "Arcobacter selective broth",
+    "FullDescription": "Peptone 18.0 g/L; Yeast extract 1.0  g/L; Sodium chloride 5.0 g/L; CCDA selective supplement  (Cefoperazone 32mg/L, Amphotericin B 10mg/L)"
+  },
+  {
+    "Acronym": "BA",
+    "Description": "Blood Agar",
+    "FullDescription": "Tryptone soya agar; 5% Sheep blood"
+  },
+  {
+    "Acronym": "BHI",
+    "Description": "BHI broth",
+    "FullDescription": "Infusion of heart and brain: 27.5, glucose:2, sodium chloride:5, biphasic sodium phosphate: 2.5. Sterilization at 121° C for 15 minutes."
+  },
+  {
+    "Acronym": "CA+HB",
+    "Description": "Columbia Agar with horse blood",
+    "FullDescription": "Special peptone 23.0 g/L; Starch 1.0 g/L; Sodium chloride 5.0 g/L; Agar 10.0 g/L; Addition Defibrinated horse blood 50 ml"
+  },
+  {
+    "Acronym": "CA+SB",
+    "Description": "Columbia agar + Sheep Blood",
+    "FullDescription": "Pancreatic Digest of Casein 12.0 g/L; Peptic Digest of Animal Tissue 5.0 g/L; Yeast Extract 3.0 g/L; Beef Extract 3.0 g/L; Corn Starch 1.0 g/L; Sodium Chloride 5.0 g/L; Agar 13.5 g/L; Sheep Blood, Defibrinated 5 %."
+  },
+  {
+    "Acronym": "CCFA",
+    "Description": "Cycloserine Cefoxitin Fructose Agar with 7% Sheep Blood",
+    "FullDescription": "Proteose Peptone 40 g/L; Sodium Phosphate Dibasic 50 g/L; Potassium Phosphate Monobasic 1 g/L; Sodium Chloride 2 g/L; Magnesium Sulfate Heptahydrate 0.2 g/L; Fructose 6 g/L; Agar 15 g/L,; Neutral Red (0.3% solution) 3 mL/L; Cycloserine (10.0% solution) 5 mL/L; 7% Sheep Blood; Cefoxitin (1.56% solution) 1 mL/L"
+  },
+  {
+    "Acronym": "CHA",
+    "Description": "Chocolate agar",
+    "FullDescription": "Enzymatic Digest of Casein 7.5 g/l; Enzymatic Digest of Animal Tissues 7.5  g/l; Corn Starch 1.0  g/l; Dipotassium Phosphate 4.0  g/l; Monopotassium Phosphate 1.0  g/l; Sodium Chloride 5.0  g/l; Agar 17.0  g/l; Defibrinated Horse Blood 50.0 ml; Vitalex Growth Supplement 10.0 ml"
+  },
+  {
+    "Acronym": "CLA",
+    "Description": "Carnation leaf agar"
+  },
+  {
+    "Acronym": "CMA",
+    "Description": "Corn Meal Agar",
+    "FullDescription": "Corn Meal Agar 17 g; Water 1 L; Sterilization 15 minutes at 121°C"
+  },
+  {
+    "Acronym": "CMASS",
+    "Description": "Corn Meal Sea Salt Agar",
+    "FullDescription": "Corn Meal Agar 17 g; sea salts 20 g; Water 1 L; Sterilization 15 minutes at 121°C"
+  },
+  {
+    "Acronym": "CMASW",
+    "Description": "Corn Meal Agar Sea Water",
+    "FullDescription": "Corn Meal Agar (CMA) with Sea Water"
+  },
+  {
+    "Acronym": "CNA+S",
+    "Description": "Columbia CNA agar with 5% Sheep Blood",
+    "FullDescription": "Peptospecial 23.0 g/L; Starch 1.0 g/L; Sodium Chloride 5.0 g/L; Colistin Sulphate 0.01 g/L; Nalidixic Acid 0.015 g/L; Sheep Blood Defibrinated 50.0 ml; Agar 14.0 g/L."
+  },
+  {
+    "Acronym": "CYA",
+    "Description": "Czapek Yeast Autolisate Agar",
+    "FullDescription": "NaNO3 3 g; KH2PO4 3 H2O 1.3 g; MgSO4 7 H2O 0.5 g; KCl 0.5 g; FeSO4 7H2O 0.01 g; CuSO4 5H2O 0.005 g; ZnSO4 7H2O 0.01 g; Yeast extract 5 g; Saccharose 30 g; Agar 15 g"
+  },
+  {
+    "Acronym": "CZ",
+    "Description": "Czapek’s",
+    "FullDescription": "NaNO3 3 g; KH2PO4 1 g; MgSO4 0.5 g; KCl 0.5 g; FeSO4 7H2O 0.01 g; Sucrose 30 g; Agar 15 g; Water 1L"
+  },
+  {
+    "Acronym": "CZ 20%",
+    "Description": "Czapek’s 20 % sucrose",
+    "FullDescription": "NaNO3 3 g; KH2PO4 1 g; MgSO4 0.5 g; KCl 0.5 g; FeSO4 7H2O 0.01 g; Sucrose 200 g; Agar 15 g; Water 1L"
+  },
+  {
+    "Acronym": "CZ 40%",
+    "Description": "Czapek’s 40 % sucrose",
+    "FullDescription": "NaNO3 3 g; KH2PO4 1 g; MgSO4 0.5 g; KCl 0.5 g; FeSO4 7H2O 0.01 g; Sucrose 400 g; Agar 15 g; Water 1L"
+  },
+  {
+    "Acronym": "CZ 70%",
+    "Description": "Czapek’s 70 % sucrose",
+    "FullDescription": "NaNO3 3 g; KH2PO4 1 g; MgSO4 0.5 g; KCl 0.5 g; FeSO4 7H2O 0.01 g; Sucrose 700 g; Agar 15 g; Water 1L"
+  },
+  {
+    "Acronym": "DG18",
+    "Description": "Dichloran 18% Glycerol Agar",
+    "FullDescription": "Dichloran-Glycerol (DG18) Agar Base (Oxoid cat n. CM 729) 15.75 g"
+  },
+  {
+    "Acronym": "LB",
+    "Description": "Luria–Bertani",
+    "FullDescription": "1% Bacto-tryptone; 0.5% Bacto-yeast extract; 1% Sodium chloride (NaCl); pH : 7.0 ± 0.2"
+  },
+  {
+    "Acronym": "LBA",
+    "Description": "Luria-Bertani Agar",
+    "FullDescription": "1% Bacto-tryptone; 0.5% Bacto-yeast extract; 1% Sodium chloride (NaCl); Agar; pH : 7.0 ± 0.2"
+  },
+  {
+    "Acronym": "M17 Lactose",
+    "Description": "M17 Lactose broth",
+    "FullDescription": "Tryptone: 2.5,; meat peptone (peptic) 2.5; soya peptone (papainic) 5; yeast extract 2.5; meat extract 5; sodium glycerophosphate 19; magnesium sulfate 0.25; ascorbic acid 0.5; lactose 5; ; Sterilization at 121° C for 15 minutes."
+  },
+  {
+    "Acronym": "M17 Lactose Agar",
+    "Description": "M17 Lactose agar",
+    "FullDescription": "Tryptone:2.5; meat peptone (peptic):2.5; Soya peptone (papainic) 5 ; yeast extract 2.5 ; meat extract 5; sodium glycerophosphate: 19 ; magnesium sulfate: 0.25 ; ascorbic acid: 0.5; lactose :5; nutrient agar: 15; ; Sterilization at 121° C for 15 minutes."
+  },
+  {
+    "Acronym": "MAC",
+    "Description": "MacConkey Agar",
+    "FullDescription": "Peptone 17 g/L; Proteose peptone 3 g/L; Lactose 10 g/L; Bile Salts 1.5 g/L; Sodium chloride 5 g/L; Neutral red 0.03 g/L; Crystal violet 0.001 g/L; Agar 13.5 g/L"
+  },
+  {
+    "Acronym": "MAC3",
+    "Description": "MacConkey agar No. 3",
+    "FullDescription": "Peptone  20.0 g/L; Lactose  10.0 g/L; Bile salts No.3  1.5 g/L; Sodium chloride  5.0 g/L; Neutral red  0.03 g/L; Crystal violet  0.001 g/L; Agar  15.0 g/L"
+  },
+  {
+    "Acronym": "MASA",
+    "Description": "Mannitol Salt Agar",
+    "FullDescription": "Proteose Peptone 10.00 g/L; Beef Extract 1.00 g/L; Sodium Chloride 75.00 g/L; D-Mannitol 10.00 g/L; Phenol Red 0.025 g/L; Agar 15.00 g/L"
+  },
+  {
+    "Acronym": "MEA",
+    "Description": "Malt Extract Agar",
+    "FullDescription": "Malt Extract 20 g; Glucose 20 g; Peptone 2 g; Agar 20 g; Water - 1 L; Sterilization 15 minutes at 121°C"
+  },
+  {
+    "Acronym": "MEASS",
+    "Description": "Malt Extract Sea Salt Agar",
+    "FullDescription": "Malt Extract - 20 g; glucose - 20 g; peptone - 2 g; agar - 20 g; sea salts - 20 g; water - 1 L; ; Sterilization 15 minutes at 121°C"
+  },
+  {
+    "Acronym": "MRS",
+    "Description": "MRS broth",
+    "FullDescription": "Enzymatic digest of casein 10; meat extract 10; yeast extract 5; glucose 20; dipotassium hydrogen phosphate 2; sodium acetate 5; di riammonium citrate 2; magnesium sulphate 0.2; manganese sulphate 0.05; polyoxoyethylenesorbitan monooleate (tween 80): 1.08; ; Sterilization at 121° C for 15 minutes."
+  },
+  {
+    "Acronym": "MRSA",
+    "Description": "MRS agar",
+    "FullDescription": "Enzymatic digest of casein: 10, meat extract:10, yeast extract:5, glucose:20, dipotassium hydrogen phosphate:2, sodium acetate:5, di riammonium citrate:2, magnesium sulphate:0.2, manganese sulphate:0.05, polyoxoyethylenesorbitan monooleate (tween 80): 1.08, nutrient agar:15. Sterilization at 121° C for 15 minutes."
+  },
+  {
+    "Acronym": "MSA",
+    "Description": "Mycobios Selective Agar"
+  },
+  {
+    "Acronym": "MY40",
+    "Description": "Malt Yeast 40% sucrose",
+    "FullDescription": "Malt Extract 20 g; yeast extract 5 g; sucrose 400 g; agar 20 g; water - up to 1 L; ; Sterilization 15 minutes at 121°C"
+  },
+  {
+    "Acronym": "MYC",
+    "Description": "Selective Agar for Pathogenic Fungi (Merck millipore)",
+    "FullDescription": "Peptone from soymeal 10.0 g/L; D(+)glucose 10.0 g/L; cycloheximide 0.4 g/L; chloramphenicol 0.05 g/L; agar-agar 12.5 g/L"
+  },
+  {
+    "Acronym": "OA",
+    "Description": "Oast Agar",
+    "FullDescription": "Oast 30 g; Agar 15 g; Water 1L"
+  },
+  {
+    "Acronym": "OCLA",
+    "Description": "Oxoid Chromogenic Listeria Agar",
+    "FullDescription": "Enzymatic digest of animal tissues\t18.0 g/L; Enzymatic digest of casein 6.0 g/L; Sodium pyruvate 2.0 g/L; Glucose\t2.0 g/L; Magnesium glycerophosphate\t1.0 g/L; Magnesium sulphate (anhydrous) 0.5 g/L; Sodium chloride 5.0 g/L; Yeast extract 10.0 g/L; Lithium chloride 10.0 g/L; Disodium hydrogen phosphate (anhydrous)\t2.5 g/L; X-glucoside chromogenic mix\t0.05 g/L; Agar 12.0 g/L; ; Final pH 7.2 ± 0.2 @ 25°C"
+  },
+  {
+    "Acronym": "PALCAM",
+    "Description": "PALCAM AGAR BASE",
+    "FullDescription": "Columbia Blood Agar Base 39.0 g/L; Yeast extract 3.0 g/L; Glucose 0.5 g/L; Aesculin 0.8 g/L; Ferric ammonium citrate 0.5 g/L; Mannitol 10.0 g/L; Phenol red 0.08 g/L; Lithium chloride 15.0 g/L; ; pH 7.2 ± 0.2 @ 25°C"
+  },
+  {
+    "Acronym": "PCA",
+    "Description": "Plate Count Agar",
+    "FullDescription": "Tryptone (5g/L), Yeast extract (2,5 g/L), Dextrose (1 g/L), Agar (15 g/L)"
+  },
+  {
+    "Acronym": "PDA",
+    "Description": "Potato Dextrose Agar",
+    "FullDescription": "Potato Dextrose Agar 39 g/L; Water 1L"
+  },
+  {
+    "Acronym": "PDB",
+    "Description": "Potato Dextrose Broth"
+  },
+  {
+    "Acronym": "PIAM",
+    "Description": "PIAM",
+    "FullDescription": "Estratto di malto vitaminizzato P.I.A.M. 20 g (Vecchi e PIAM); Petone 2 g; Glucosio 20 g; KH2PO4 0.2 g; FeCl3 tracce; Agar 16 g"
+  },
+  {
+    "Acronym": "Pikovskaya Agar",
+    "Description": "Pikovskaya Agar",
+    "FullDescription": "Yeast Extract 0.5; Dextrose 10.0; Calcium Phosphate 5.0; Ammonium Sulphate 0.5; Potassium Chloride 0.2; Magnesium Sulphate 0.1; Manganese Sulphate 0.0001; Ferrous Sulphate 0.0001; Agar 15.0"
+  },
+  {
+    "Acronym": "R2A",
+    "Description": "Reasoner's 2A Agar",
+    "FullDescription": "Yeast Extract (0.5g/L), Proteose Peptone (0.5g/L), Casein Hydrolysate (0.5g/L), Glucose (0.5g/L), Starch (0.5g/L), Potassium Phosphate (0.3g/L), Magnesium Sulphate (0.024g/L), Sodium Pyruvate (0.3g/L), and Agar (15.0g/L)"
+  },
+  {
+    "Acronym": "SAB",
+    "Description": "Sabouraud Dextrose Agar",
+    "FullDescription": "Dextrose 40 g/l; Peptone 10 g/l; Agar 10 g/l (suspend the components in 1000 ml of distilled water, sterilize by autoclaving at 121°C for 15 minutes) Final pH 5.6 +/- 0.2 at 25ºC"
+  },
+  {
+    "Acronym": "SABCG",
+    "Description": "Sabouraud dextrose agar with chloramphenicol and gentamici",
+    "FullDescription": "Pancreatic Digest of Casein 5g/L; Peptic Digest of Animal Tissue 5g/L; Glucose 40 g/L; Chloramphenicol 0.05 g/L; Gentamicin 0.025 g/L; Agar 15 g/L"
+  },
+  {
+    "Acronym": "SAD",
+    "Description": "Selective Agar for Dermatophytes",
+    "FullDescription": "Soy Peptone 10 g/L; Glucose 10 g/L; Cycloheximide 0.4 g/L; Chloramphenicol 0.05 g/L; Agar 15 g/L"
+  },
+  {
+    "Acronym": "TSA",
+    "Description": "Tryptone Soya Agar",
+    "FullDescription": "Pancreatic digest of casein 15.0 g/l; Agar 15.0 g/l; Enzymatic digest of soya bean 5.0 g/l; NaCl 5.0 g/l; ; pH 7.3 ± 0.2 @ 25°C; Sterilize by autoclaving at 121°C for 15 minutes."
+  },
+  {
+    "Acronym": "TSB",
+    "Description": "Tryptic soy broth",
+    "FullDescription": "Casein peptone 17.00 g; Soy peptone 3.00 g; D(+)-Glucose 2.50 g; NaCl 5.00 g; K2HPO4 2.50 g; Distilled water 1000.00 ml"
+  },
+  {
+    "Acronym": "V8",
+    "Description": "V8",
+    "FullDescription": "Minestrone congelato 300 g; CaCO3 2 g; Water 1L"
+  },
+  {
+    "Acronym": "WLN",
+    "Description": "WLN agar",
+    "FullDescription": "Yeast extract: 4; tryptone: 5; glucose: 50; agar: 20; potassium dihydrogen phosphate: 0.55; potassium chloride: 0.425; calcium chloride: 0.125; magnesium sulphate: 0.125; ferric chloride: 0.0025; manganese sulphate: 0.0025; bromocresol green: 0.022; ; Sterilization at 121° C for 15 minutes."
+  },
+  {
+    "Acronym": "XLD",
+    "Description": "XLD agar",
+    "FullDescription": "Xylose:3.5, L-lysine:5, lactose:7.5, sucrose:7.5, sodium chloride:5, yeast extract:3, sodium deoxycholate:2.5, sodium thiosulfate:6.8, ferric ammonium citrate:0.8, phenol red:0.08, agar:13.5. Heat to boiling with agitation to completely dissolve. DO NOT autoclave."
+  },
+  {
+    "Acronym": "YES",
+    "Description": "Yeast extract sucrose agar"
+  },
+  {
+    "Acronym": "YPD",
+    "Description": "YPD broth",
+    "FullDescription": "Yeast extract:20; peptone:20; dextrose:10; ; Sterilization at 121° C for 15 minutes."
+  },
+  {
+    "Acronym": "YPDA",
+    "Description": "YPD Agar",
+    "FullDescription": "Yeast extract 20g/L; peptone 20 g/L; dextrose 15g/L; nutrient agar 15 g/L; ; Sterilization at 121° C for 15 minutes."
+  }
+]

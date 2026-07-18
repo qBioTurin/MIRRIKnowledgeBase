@@ -1,0 +1,7907 @@
+[
+  {
+    "Altitude": 360,
+    "City": "Cengio",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000001",
+    "Latitude": 44.383333,
+    "Longitude": 8.216667,
+    "Region": "Ligury"
+  },
+  {
+    "City": "Angrogna",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000002",
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 245,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000003",
+    "Latitude": 45.05478,
+    "Longitude": 7.686613,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 360,
+    "City": "Cengio",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000004",
+    "Latitude": 44.383333,
+    "Longitude": 8.216667,
+    "Region": "Ligury"
+  },
+  {
+    "Altitude": 245,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000005",
+    "Locality": "Mirafiori",
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 245,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000006",
+    "Locality": "Mirafiori",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Alba",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000007",
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Somalia",
+    "CountryCode": "SO",
+    "ID": "L000008"
+  },
+  {
+    "City": "Bussoleno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000009",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Grugliasco",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000010",
+    "Locality": "Veterinary Faculty",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Alba",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000011",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Priocca",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000012",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000013",
+    "Locality": "San Lazzaro Hospital",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Chieri",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000014",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Brozolo Monferrato",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000015",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Niepołomice",
+    "Country": "Poland",
+    "CountryCode": "PL",
+    "ID": "L000016",
+    "Locality": "Niepolomice forest",
+    "Region": "Lesser Poland Voivodeship"
+  },
+  {
+    "City": "Niepołomice",
+    "Country": "Poland",
+    "CountryCode": "PL",
+    "ID": "L000017",
+    "Locality": "Niepolomice forest",
+    "Region": "Lesser Poland Voivodeship"
+  },
+  {
+    "Altitude": -4,
+    "City": "Island of Elba",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000018",
+    "Latitude": 42.817778,
+    "Locality": "Ghiaie",
+    "Longitude": 10.322222,
+    "Region": "Tuscany"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000019"
+  },
+  {
+    "Altitude": -15,
+    "City": "Island of Elba",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000020",
+    "Latitude": 42.758056,
+    "Locality": "Margidore",
+    "Longitude": 10.306667,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Charvensod",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000021",
+    "Latitude": 45.693178,
+    "Longitude": 7.327481,
+    "Region": "Aosta valley"
+  },
+  {
+    "City": "Palanfré",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000022",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Lentini",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000023",
+    "Region": "Sicily"
+  },
+  {
+    "City": "Margidore",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000024",
+    "Latitude": 42.758056,
+    "Locality": "Island of Elba",
+    "Longitude": 10.306667,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Charvensod",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000025",
+    "Latitude": 45.693178,
+    "Longitude": 7.327481,
+    "Region": "Aosta valley"
+  },
+  {
+    "City": "Ghiaie",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000026",
+    "Latitude": 42.817778,
+    "Locality": "Island of Elba",
+    "Longitude": 10.322222,
+    "Region": "Tuscany"
+  },
+  {
+    "Country": "Norway",
+    "CountryCode": "NO",
+    "ID": "L000027"
+  },
+  {
+    "Country": "Somalia",
+    "CountryCode": "SO",
+    "ID": "L000028"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000029",
+    "Locality": "Sila",
+    "Region": "Calabria"
+  },
+  {
+    "City": "Tekeli",
+    "Country": "Türkiye",
+    "CountryCode": "TR",
+    "ID": "L000030",
+    "Region": "Ankara"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000031",
+    "Locality": "Val Germanasca",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Ghiaie",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000032",
+    "Latitude": 42.817778,
+    "Locality": "Island of Elba",
+    "Longitude": 10.322222,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": -4,
+    "City": "Island of Elba",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000033",
+    "Latitude": 42.758056,
+    "Locality": "Margidore",
+    "Longitude": 10.306667,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 245,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000034",
+    "Latitude": 45.05478,
+    "Locality": "Orto Botanico",
+    "Longitude": 7.686613,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 240,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000035",
+    "Locality": "Crocetta, public garden, children sand box",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "San Francesco al Campo",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000036",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "San Francesco al Campo",
+    "Country": "France",
+    "CountryCode": "FR",
+    "ID": "L000037",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Paris",
+    "Country": "France",
+    "CountryCode": "FR",
+    "ID": "L000038",
+    "Locality": "Musei di Parigi",
+    "Region": "Ile de France"
+  },
+  {
+    "City": "Castiglione Monferrato",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000039",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Lentini",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000040",
+    "Region": "Sicily"
+  },
+  {
+    "City": "Chiusa Pesio",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000041",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Borgio Verezzi",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000042",
+    "Region": "Ligury"
+  },
+  {
+    "Country": "India",
+    "CountryCode": "IN",
+    "ID": "L000043"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000044",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Chiusa Pesio",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000045",
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Norway",
+    "CountryCode": "NO",
+    "ID": "L000046"
+  },
+  {
+    "City": "Bydgozz",
+    "Country": "Poland",
+    "CountryCode": "PL",
+    "ID": "L000047",
+    "Locality": "Botanical garden",
+    "Region": "Bydgozz"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000048",
+    "Region": "Veneto"
+  },
+  {
+    "Country": "Russian Federation",
+    "CountryCode": "RU",
+    "ID": "L000049"
+  },
+  {
+    "City": "Perm Krai",
+    "Country": "Russian Federation",
+    "CountryCode": "RU",
+    "ID": "L000050",
+    "Locality": "Kokuy site of the Priroda-Perm company",
+    "Region": "Kungur"
+  },
+  {
+    "City": "Perm Krai",
+    "Country": "Russian Federation",
+    "CountryCode": "RU",
+    "ID": "L000051"
+  },
+  {
+    "City": "Perm Krai",
+    "Country": "Russian Federation",
+    "CountryCode": "RU",
+    "ID": "L000052"
+  },
+  {
+    "Country": "Russian Federation",
+    "CountryCode": "RU",
+    "ID": "L000053"
+  },
+  {
+    "Altitude": 249,
+    "City": "Poirino",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000054",
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000055",
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 249,
+    "City": "Poirino",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000056",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Florence",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000057",
+    "Region": "Tuscany"
+  },
+  {
+    "Country": "Spain",
+    "CountryCode": "ES",
+    "ID": "L000058"
+  },
+  {
+    "City": "Castiglione Monferrato",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000059",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "San Francesco al Campo",
+    "Country": "France",
+    "CountryCode": "FR",
+    "ID": "L000060",
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000061",
+    "Locality": "Lanzo Valley",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Avigliana",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000062",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Gela",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000063",
+    "Region": "Sicily"
+  },
+  {
+    "City": "Gela",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000064",
+    "Region": "Sicily"
+  },
+  {
+    "Altitude": 0,
+    "City": "Varigotti",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000065",
+    "Region": "Ligury"
+  },
+  {
+    "City": "Cogne",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000066",
+    "Locality": "Cogne",
+    "Region": "Aosta Valley"
+  },
+  {
+    "Country": "Netherlands, Kingdom of the",
+    "CountryCode": "NL",
+    "ID": "L000067"
+  },
+  {
+    "City": "Marokindro",
+    "Country": "Madagascar",
+    "CountryCode": "MG",
+    "ID": "L000068",
+    "Latitude": -13.3286,
+    "Locality": "Nosy be Island",
+    "Longitude": 48.2598,
+    "Region": "Antsiranana Province"
+  },
+  {
+    "City": "Marokindro",
+    "Country": "Madagascar",
+    "CountryCode": "MG",
+    "ID": "L000069",
+    "Latitude": -13.338,
+    "Locality": "Nosy be Island",
+    "Longitude": 48.2573,
+    "Region": "Antsiranana Province"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000070",
+    "Locality": "Central Italy"
+  },
+  {
+    "City": "Busca",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000071",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Chieri",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000072",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Marokindro",
+    "Country": "Madagascar",
+    "CountryCode": "MG",
+    "ID": "L000073",
+    "Latitude": -13.3306,
+    "Locality": "Nosy be Island",
+    "Longitude": 48.2585,
+    "Region": "Antsiranana Province"
+  },
+  {
+    "Country": "Madagascar",
+    "CountryCode": "MG",
+    "ID": "L000074"
+  },
+  {
+    "City": "Serra S. Bruno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000075",
+    "Region": "Calabria"
+  },
+  {
+    "Country": "Madagascar",
+    "CountryCode": "MG",
+    "ID": "L000076"
+  },
+  {
+    "Altitude": 0,
+    "City": "Ravenna",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000077",
+    "Region": "Emilia-Romagna"
+  },
+  {
+    "Altitude": 0,
+    "City": "Ravenna",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000078",
+    "Region": "Emilia-Romagna"
+  },
+  {
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000079",
+    "Locality": "Amedeo di Savoia Hospital",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000080",
+    "Locality": "Crocetta, public garden children box",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Albenga",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000081",
+    "Region": "Ligury"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000082",
+    "Locality": "Valle di Lanzo",
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": -15,
+    "City": "Margidore",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000083",
+    "Latitude": 42.758056,
+    "Locality": "Island of Elba",
+    "Longitude": 10.306667,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": -5,
+    "City": "Ghiaie",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000084",
+    "Locality": "Island of Elba",
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000085",
+    "Locality": "Molinette Hospital (dietologia)",
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000086"
+  },
+  {
+    "City": "Faa'a",
+    "Country": "France",
+    "CountryCode": "FR",
+    "ID": "L000087",
+    "Region": "Tahiti"
+  },
+  {
+    "City": "Erzurum",
+    "Country": "Türkiye",
+    "CountryCode": "TR",
+    "ID": "L000088"
+  },
+  {
+    "City": "Florence",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000089",
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 245,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000090",
+    "Latitude": 45.05478,
+    "Longitude": 7.686613,
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Robilante",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000091",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Valdieri",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000092",
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "New Zealand",
+    "CountryCode": "NZ",
+    "ID": "L000093"
+  },
+  {
+    "City": "Ghiaie",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000094",
+    "Locality": "Island of Elba",
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Boves",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000095",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Chiusa Pesio",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000096",
+    "Locality": "forest nurcery",
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000097",
+    "Region": "Sicily"
+  },
+  {
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000098",
+    "Locality": "Superga",
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": -15,
+    "City": "Ghiaie",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000099",
+    "Locality": "Island of Elba",
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Ceva",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000100",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Ghiaie",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000101",
+    "Locality": "Island of Elba",
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Venice",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000102",
+    "Locality": "BAUM Deposit",
+    "Region": "Veneto"
+  },
+  {
+    "City": "Venice",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000103",
+    "Locality": "BAUM Deposit",
+    "Region": "Veneto"
+  },
+  {
+    "Altitude": 0,
+    "City": "Venice",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000104",
+    "Locality": "BAUM deposit",
+    "Region": "Veneto"
+  },
+  {
+    "Altitude": 0,
+    "City": "Venice",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000105",
+    "Locality": "BAUM deposit",
+    "Region": "Veneto"
+  },
+  {
+    "City": "Palanfré",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000106",
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000107",
+    "Region": "Sicily"
+  },
+  {
+    "Country": "France",
+    "CountryCode": "FR",
+    "ID": "L000108",
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000109",
+    "Region": "Ligury"
+  },
+  {
+    "Altitude": 0,
+    "City": "Varigotti",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000110",
+    "Region": "Ligury"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000111",
+    "Region": "Ligury"
+  },
+  {
+    "Altitude": -15,
+    "City": "Ghiaie",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000112",
+    "Latitude": 42.817778,
+    "Locality": "Island of Elba",
+    "Longitude": 10.322222,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Margidore",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000113",
+    "Locality": "Island of Elba",
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Angrogna",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000114",
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Spain",
+    "CountryCode": "ES",
+    "ID": "L000115"
+  },
+  {
+    "City": "Maltignano",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000116",
+    "Region": "Marche"
+  },
+  {
+    "City": "Maltignano",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000117",
+    "Region": "Marche"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000118",
+    "Latitude": 41.325822,
+    "Longitude": 13.032281
+  },
+  {
+    "Country": "France",
+    "CountryCode": "FR",
+    "ID": "L000119",
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Switzerland",
+    "CountryCode": "CH",
+    "ID": "L000120"
+  },
+  {
+    "Country": "France",
+    "CountryCode": "FR",
+    "ID": "L000121"
+  },
+  {
+    "City": "Grugliasco",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000122",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Margidore",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000123",
+    "Locality": "Island of Elba",
+    "Region": "Tuscany"
+  },
+  {
+    "Country": "Tunisia",
+    "CountryCode": "TN",
+    "ID": "L000124",
+    "Latitude": 36.963774,
+    "Longitude": 8.761538
+  },
+  {
+    "City": "Torino",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000125",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "San Michele di Mondovì",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000126",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "San Michele di Mondovì",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000127",
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Germany",
+    "CountryCode": "DE",
+    "ID": "L000128"
+  },
+  {
+    "Country": "Tunisia",
+    "CountryCode": "TN",
+    "ID": "L000129",
+    "Latitude": 36.963774,
+    "Longitude": 8.761538
+  },
+  {
+    "Country": "Germany",
+    "CountryCode": "DE",
+    "ID": "L000130"
+  },
+  {
+    "City": "Borgio Verezzi",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000131",
+    "Region": "Ligury"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000132",
+    "Locality": "Gran Paradiso National Park",
+    "Region": "Aosta valley"
+  },
+  {
+    "City": "Sylvenoire",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000133",
+    "Locality": "Gran Paradiso National Park",
+    "Region": "Aosta valley"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000134",
+    "Locality": "Gran Paradiso National Park",
+    "Region": "Aosta valley"
+  },
+  {
+    "City": "Gela",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000135",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Albenga",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000136",
+    "Region": "Ligury"
+  },
+  {
+    "City": "Rosta",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000137",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Meugliano",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000138",
+    "Latitude": 45.49115055,
+    "Longitude": 7.7823119924,
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Castelfusano",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000139",
+    "Latitude": 41.723002,
+    "Locality": "Castelfusano Pinewood Urban Park",
+    "Longitude": 12.30947,
+    "Region": "Lazio"
+  },
+  {
+    "City": "Sylvenoire",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000140",
+    "Locality": "Gran Paradiso National Park",
+    "Region": "Aosta valley"
+  },
+  {
+    "City": "Taverna",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000141",
+    "Latitude": 39.015833,
+    "Longitude": 16.58,
+    "Region": "Calabria"
+  },
+  {
+    "Altitude": 250,
+    "City": "Rosta",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000142",
+    "Latitude": 45.0693,
+    "Locality": "Rosta",
+    "Longitude": 7.4656,
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Rosta",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000143",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Carmagnola",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000144",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Grugliasco",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000145",
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Tunisia",
+    "CountryCode": "TN",
+    "ID": "L000146"
+  },
+  {
+    "Country": "China",
+    "CountryCode": "CN",
+    "ID": "L000147"
+  },
+  {
+    "Country": "United Kingdom of Great Britain and Northern Ireland",
+    "CountryCode": "GB",
+    "ID": "L000148"
+  },
+  {
+    "Country": "Canada",
+    "CountryCode": "CA",
+    "ID": "L000149"
+  },
+  {
+    "Country": "Slovenia",
+    "CountryCode": "SI",
+    "ID": "L000150"
+  },
+  {
+    "Country": "China",
+    "CountryCode": "CN",
+    "ID": "L000151"
+  },
+  {
+    "Country": "France",
+    "CountryCode": "FR",
+    "ID": "L000152"
+  },
+  {
+    "Altitude": 250,
+    "City": "Rosta",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000153",
+    "Latitude": 45.0697,
+    "Locality": "Rosta",
+    "Longitude": 7.4647,
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "South Africa",
+    "CountryCode": "ZA",
+    "ID": "L000154"
+  },
+  {
+    "Country": "Poland",
+    "CountryCode": "PL",
+    "ID": "L000155"
+  },
+  {
+    "City": "Linosa",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000156",
+    "Latitude": 35.873533,
+    "Longitude": 12.882967,
+    "Region": "Sicily"
+  },
+  {
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000157",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000158",
+    "Locality": "Consolata",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000159",
+    "Locality": "Sangone",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000160",
+    "Locality": "Porta Palazzo",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000161",
+    "Locality": "Consolata",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000162",
+    "Locality": "San Lazzaro Hospital",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000163",
+    "Locality": "Sangone",
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Egypt",
+    "CountryCode": "EG",
+    "ID": "L000164"
+  },
+  {
+    "Country": "Egypt",
+    "CountryCode": "EG",
+    "ID": "L000165"
+  },
+  {
+    "City": "Porto Badisco",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000166",
+    "Region": "Puglia"
+  },
+  {
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000167",
+    "Locality": "Parco del Valentino",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000168",
+    "Locality": "Parco del Valentino",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000169",
+    "Locality": "Porta Palazzo",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Porto Badisco",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000170",
+    "Region": "Puglia"
+  },
+  {
+    "City": "Torre Pellice",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000171",
+    "Locality": "Archivio della Tavola Valdese",
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Czechia",
+    "CountryCode": "CZ",
+    "ID": "L000172"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000173",
+    "Latitude": 45.686419,
+    "Longitude": 7.282983
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000174",
+    "Latitude": 45.59926,
+    "Longitude": 7.36876
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000175",
+    "Latitude": 44.212994,
+    "Longitude": 7.793508,
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000176",
+    "Latitude": 45.70541,
+    "Longitude": 7.283825
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000177",
+    "Latitude": 45.69052,
+    "Longitude": 7.25846
+  },
+  {
+    "Altitude": 0,
+    "City": "Venice",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000178",
+    "Locality": "Laguna",
+    "Region": "Veneto"
+  },
+  {
+    "City": "Pessione",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000179",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Borgaro",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000180",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Borgaro",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000181",
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Ireland",
+    "CountryCode": "IE",
+    "ID": "L000182"
+  },
+  {
+    "Country": "Ireland",
+    "CountryCode": "IE",
+    "ID": "L000183"
+  },
+  {
+    "Country": "Czechia",
+    "CountryCode": "CZ",
+    "ID": "L000184"
+  },
+  {
+    "Altitude": 0,
+    "City": "Venice",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000185",
+    "Locality": "Laguna",
+    "Region": "Veneto"
+  },
+  {
+    "Altitude": 636,
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000186",
+    "Latitude": 44.33785,
+    "Longitude": 7.4931,
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Fidenza",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000187",
+    "Region": "Emilia-Romagna"
+  },
+  {
+    "City": "Fidenza",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000188",
+    "Region": "Emilia-Romagna"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000189",
+    "Latitude": 42.4150278,
+    "Longitude": 11.215183
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000190",
+    "Latitude": 41.723002,
+    "Longitude": 12.30947
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000191",
+    "Latitude": 41.325822,
+    "Longitude": 13.032281
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000192",
+    "Latitude": 41.5335806,
+    "Longitude": 12.5589861
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000193",
+    "Region": "Emilia-Romagna"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000194",
+    "Latitude": 46.150993,
+    "Longitude": 8.463452,
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000195",
+    "Latitude": 45.764844,
+    "Longitude": 7.003492
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000196",
+    "Latitude": 45.7571,
+    "Longitude": 7.558189
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000197",
+    "Latitude": 46.150993,
+    "Longitude": 8.463452,
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Chile",
+    "CountryCode": "CL",
+    "ID": "L000198"
+  },
+  {
+    "City": "Cosseria",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000199",
+    "Region": "Ligury"
+  },
+  {
+    "City": "Cosseria",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000200",
+    "Region": "Ligury"
+  },
+  {
+    "City": "Novara",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000201",
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000202",
+    "Region": "Emilia-Romagna"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000203",
+    "Latitude": 46.249117,
+    "Longitude": 8.311658,
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000204",
+    "Latitude": 45.708993,
+    "Longitude": 7.744429
+  },
+  {
+    "Altitude": 923,
+    "City": "Morgex",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000205",
+    "Latitude": 45.764844,
+    "Longitude": 7.003492,
+    "Region": "Aosta Valley"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000206",
+    "Latitude": 45.764844,
+    "Longitude": 7.003492
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000207",
+    "Latitude": 45.708993,
+    "Longitude": 7.744429
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000208",
+    "Latitude": 45.7571,
+    "Longitude": 7.558189
+  },
+  {
+    "Country": "Egypt",
+    "CountryCode": "EG",
+    "ID": "L000209",
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 0,
+    "City": "Punta Manara",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000210",
+    "Region": "Ligury"
+  },
+  {
+    "Altitude": 0,
+    "City": "Punta Manara",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000211",
+    "Region": "Ligury"
+  },
+  {
+    "Country": "Egypt",
+    "CountryCode": "EG",
+    "ID": "L000212",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Piobesi Torinese",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000213"
+  },
+  {
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000214",
+    "Locality": "corso Vittorio",
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Croatia",
+    "CountryCode": "HR",
+    "ID": "L000215"
+  },
+  {
+    "Country": "Croatia",
+    "CountryCode": "HR",
+    "ID": "L000216"
+  },
+  {
+    "Country": "Czechoslovakia",
+    "CountryCode": "CS",
+    "ID": "L000217"
+  },
+  {
+    "Country": "Sweden",
+    "CountryCode": "SE",
+    "ID": "L000218"
+  },
+  {
+    "Country": "Czechoslovakia",
+    "CountryCode": "CS",
+    "ID": "L000219"
+  },
+  {
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000220",
+    "Locality": "Corso Ferrucci",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Piossasco",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000221",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Island of Elba",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000222",
+    "Locality": "Margidore",
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Island of Elba",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000223",
+    "Locality": "Margidore",
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Santa Croce sull'Arno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000224",
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Santa Croce sull'Arno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000225",
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Island of Elba",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000226",
+    "Locality": "Ghiaie",
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Island of Elba",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000227",
+    "Locality": "Ghiaie",
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Island of Elba",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000228",
+    "Latitude": 42.817778,
+    "Locality": "Ghiaie",
+    "Longitude": 10.322222,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Island of Elba",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000229",
+    "Latitude": 42.817778,
+    "Locality": "Ghiaie",
+    "Longitude": 10.322222,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Island of Elba",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000230",
+    "Latitude": 42.758056,
+    "Locality": "Margidore",
+    "Longitude": 10.306667,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Margidore",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000231",
+    "Latitude": 42.758056,
+    "Locality": "Island of Elba",
+    "Longitude": 10.306667,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Island of Elba",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000232",
+    "Latitude": 42.758056,
+    "Locality": "Margidore",
+    "Longitude": 10.306667,
+    "Region": "Tuscany"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000233",
+    "Locality": "Island of Elba",
+    "Region": "Tuscany"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000234",
+    "Locality": "Island of Elba",
+    "Region": "Tuscany"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000235",
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Ghiaie",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000236",
+    "Latitude": 42.817777,
+    "Locality": "Island of Elba",
+    "Longitude": 10.322222,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Margidore",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000237",
+    "Latitude": 42.758055,
+    "Locality": "Island of Elba",
+    "Longitude": 10.306666,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Margidore",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000238",
+    "Latitude": 42.817778,
+    "Locality": "Island of Elba",
+    "Longitude": 10.322222,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Ghiaie",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000239",
+    "Latitude": 42.758056,
+    "Locality": "Island of Elba",
+    "Longitude": 10.306667,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Margidore",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000240",
+    "Latitude": 42.817778,
+    "Locality": "Island of Elba",
+    "Longitude": 10.322222,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": -15,
+    "City": "Island of Elba",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000241",
+    "Latitude": 42.817778,
+    "Locality": "Ghiaie",
+    "Longitude": 10.322222,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Venice",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000242",
+    "Region": "Veneto"
+  },
+  {
+    "City": "Charvensod",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000243",
+    "Latitude": 45.694702,
+    "Longitude": 7.326652,
+    "Region": "Aosta valley"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000244",
+    "Latitude": 44.258273,
+    "Longitude": 7.047502,
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000245",
+    "Latitude": 46.148181,
+    "Longitude": 8.453068,
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000246",
+    "Latitude": 45.88103,
+    "Longitude": 8.203583,
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Gressan",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000247",
+    "Latitude": 45.715683,
+    "Longitude": 7.307161,
+    "Region": "Aosta Valley"
+  },
+  {
+    "Altitude": 36,
+    "Country": "Poland",
+    "CountryCode": "PL",
+    "ID": "L000248",
+    "Latitude": 52.796,
+    "Longitude": 15.7684
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000249",
+    "Latitude": 46.219582,
+    "Longitude": 8.215602,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 166,
+    "Country": "Poland",
+    "CountryCode": "PL",
+    "ID": "L000250",
+    "Latitude": 51.8153,
+    "Longitude": 17.7329
+  },
+  {
+    "Altitude": 1166,
+    "Country": "Poland",
+    "CountryCode": "PL",
+    "ID": "L000251",
+    "Latitude": 50.7681,
+    "Longitude": 15.6958
+  },
+  {
+    "Altitude": 50,
+    "Country": "Poland",
+    "CountryCode": "PL",
+    "ID": "L000252",
+    "Latitude": 52.6379,
+    "Longitude": 15.5123
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000253",
+    "Latitude": 44.148912,
+    "Longitude": 7.735231,
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "United States of America",
+    "CountryCode": "US",
+    "ID": "L000254",
+    "Latitude": 32.846111111111114,
+    "Longitude": -81.5425
+  },
+  {
+    "Country": "United States of America",
+    "CountryCode": "US",
+    "ID": "L000255",
+    "Latitude": 31.641666666666666,
+    "Longitude": -93.32
+  },
+  {
+    "Country": "United States of America",
+    "CountryCode": "US",
+    "ID": "L000256",
+    "Latitude": 32.47277777777778,
+    "Longitude": -85.02
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000257",
+    "Latitude": 45.59926,
+    "Longitude": 7.368769
+  },
+  {
+    "Country": "Finland",
+    "CountryCode": "FI",
+    "ID": "L000258"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000259",
+    "Latitude": 46.249117,
+    "Longitude": 8.311658,
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000260",
+    "Latitude": 37.768572,
+    "Longitude": 15.063595,
+    "Region": "Sicily"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000261",
+    "Latitude": 44.264216,
+    "Longitude": 7.358849,
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000262",
+    "Latitude": 44.60913,
+    "Longitude": 8.5775,
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000263",
+    "Latitude": 45.804616,
+    "Longitude": 7.619534
+  },
+  {
+    "Altitude": 0,
+    "City": "Venice",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000264",
+    "Region": "Veneto"
+  },
+  {
+    "City": "San Miniato",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000265",
+    "Region": "Tuscany"
+  },
+  {
+    "City": "San Miniato",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000266",
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Grugliasco",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000267"
+  },
+  {
+    "City": "High Seas",
+    "Country": "High Seas",
+    "CountryCode": "XX",
+    "ID": "L000268",
+    "Latitude": 34.39955,
+    "Locality": "DHAL Medee",
+    "Longitude": 22.44955,
+    "Region": "High Seas"
+  },
+  {
+    "City": "High Seas",
+    "Country": "High Seas",
+    "CountryCode": "XX",
+    "ID": "L000269",
+    "Latitude": 35.3325,
+    "Longitude": 21.399333,
+    "Region": "High Seas"
+  },
+  {
+    "City": "High Seas",
+    "Country": "High Seas",
+    "CountryCode": "XX",
+    "ID": "L000270",
+    "Latitude": 35.055333,
+    "Longitude": 22.0685,
+    "Region": "High Seas"
+  },
+  {
+    "Country": "High Seas",
+    "CountryCode": "XX",
+    "ID": "L000271",
+    "Latitude": 35.055333,
+    "Longitude": 22.0685
+  },
+  {
+    "Country": "High Seas",
+    "CountryCode": "XX",
+    "ID": "L000272",
+    "Latitude": 35.230833,
+    "Longitude": 21.474
+  },
+  {
+    "Country": "High Seas",
+    "CountryCode": "XX",
+    "ID": "L000273",
+    "Latitude": 34.9555,
+    "Longitude": 22.033333
+  },
+  {
+    "Country": "High Seas",
+    "CountryCode": "XX",
+    "ID": "L000274",
+    "Latitude": 34.428833,
+    "Longitude": 22.335333
+  },
+  {
+    "Country": "High Seas",
+    "CountryCode": "XX",
+    "ID": "L000275",
+    "Latitude": 36.510217,
+    "Longitude": 15.67665
+  },
+  {
+    "Country": "High seas",
+    "CountryCode": "XX",
+    "ID": "L000276",
+    "Latitude": 36.510217,
+    "Longitude": 15.67665
+  },
+  {
+    "City": "High Seas",
+    "Country": "High Seas",
+    "CountryCode": "XX",
+    "ID": "L000277",
+    "Latitude": 36.510217,
+    "Longitude": 15.67665,
+    "Region": "High Seas"
+  },
+  {
+    "Altitude": 314,
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000278",
+    "Latitude": 45.7093,
+    "Longitude": 9.4067
+  },
+  {
+    "Altitude": 321,
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000279",
+    "Latitude": 45.7022,
+    "Longitude": 9.4207
+  },
+  {
+    "Country": "Tunisia",
+    "CountryCode": "TN",
+    "ID": "L000280",
+    "Latitude": 33.457827,
+    "Longitude": 9.007742
+  },
+  {
+    "Country": "Tunisia",
+    "CountryCode": "TN",
+    "ID": "L000281",
+    "Latitude": 33.457827,
+    "Longitude": 9.007742
+  },
+  {
+    "Country": "Tunisia",
+    "CountryCode": "TN",
+    "ID": "L000282",
+    "Latitude": 33.8734781,
+    "Longitude": 7.89522222
+  },
+  {
+    "Country": "Tunisia",
+    "CountryCode": "TN",
+    "ID": "L000283",
+    "Latitude": 33.8734781,
+    "Longitude": 7.89522222
+  },
+  {
+    "Country": "Tunisia",
+    "CountryCode": "TN",
+    "ID": "L000284",
+    "Latitude": 32.982233,
+    "Longitude": 9.636469
+  },
+  {
+    "Country": "Tunisia",
+    "CountryCode": "TN",
+    "ID": "L000285",
+    "Latitude": 32.982233,
+    "Longitude": 9.636469
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000286",
+    "Latitude": 44.993044,
+    "Longitude": 7.586412,
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000287",
+    "Latitude": 45.166209,
+    "Longitude": 7.573905,
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000288",
+    "Latitude": 45.942368,
+    "Longitude": 8.538859,
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000289",
+    "Latitude": 44.333186,
+    "Longitude": 7.6005,
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Chiusa di Pesio",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000290",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Chiusa di Pesio",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000291",
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Latvia",
+    "CountryCode": "LV",
+    "ID": "L000292"
+  },
+  {
+    "City": "Chiusa di Pesio",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000293",
+    "Latitude": 44.311111,
+    "Longitude": 7.683439,
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Napoli",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000294",
+    "Region": "Campania"
+  },
+  {
+    "Altitude": 240,
+    "City": "Candiolo",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000295",
+    "Latitude": 44.9591,
+    "Longitude": 7.6014,
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Candiolo",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000296",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Piobesi Torinese",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000297",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Piobesi Torinese",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000298",
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 233,
+    "City": "Piobesi Torinese",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000299",
+    "Latitude": 44.933333,
+    "Locality": "Piobesi Torinese",
+    "Longitude": 7.616667,
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Candiolo",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000300",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Novara",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000301",
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 520,
+    "City": "Ragusa",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000302",
+    "Latitude": 36.9216,
+    "Locality": "Ragusa",
+    "Longitude": 14.7212,
+    "Region": "Sicily"
+  },
+  {
+    "City": "Colfelice",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000303",
+    "Region": "Latium"
+  },
+  {
+    "City": "Arma di Taggia",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000304",
+    "Region": "Ligury"
+  },
+  {
+    "City": "Favria",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000305",
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 80,
+    "City": "Fidenza",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000306",
+    "Latitude": 44.8656,
+    "Locality": "Carbochimica site",
+    "Longitude": 10.0648,
+    "Region": "Emilia-Romagna"
+  },
+  {
+    "Altitude": 240,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000307",
+    "Latitude": 45.0538,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6825,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 241,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000308",
+    "Latitude": 45.0538,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6824,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 241,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000309",
+    "Latitude": 45.0539,
+    "Locality": "San Salvario",
+    "Longitude": 7.6823,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 241,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000310",
+    "Latitude": 45.0538,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6823,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 241,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000311",
+    "Latitude": 45.0539,
+    "Locality": "San Salvario",
+    "Longitude": 7.6824,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 241,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000312",
+    "Latitude": 45.0538,
+    "Locality": "San Salvario",
+    "Longitude": 7.6824,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 240,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000313",
+    "Latitude": 45.0538,
+    "Locality": "San Salvario",
+    "Longitude": 7.6826,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 241,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000314",
+    "Latitude": 45.0537,
+    "Locality": "San Salvario",
+    "Longitude": 7.6824,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 240,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000315",
+    "Latitude": 45.0538,
+    "Locality": "San Salvario",
+    "Longitude": 7.6825,
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000316",
+    "Latitude": 43.5474,
+    "Longitude": 10.2194,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000317",
+    "Latitude": 43.5422,
+    "Locality": "harbor",
+    "Longitude": 10.296,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000318",
+    "Latitude": 43.5458,
+    "Longitude": 10.2199,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000319",
+    "Latitude": 43.5418,
+    "Longitude": 10.2959,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000320",
+    "Latitude": 43.549,
+    "Longitude": 10.2587,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000321",
+    "Latitude": 43.5466,
+    "Longitude": 10.2194,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000322",
+    "Latitude": 43.5466,
+    "Longitude": 10.2191,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000323",
+    "Latitude": 43.5545,
+    "Longitude": 10.2578,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000324",
+    "Latitude": 43.5485,
+    "Longitude": 10.1812,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000325",
+    "Latitude": 43.5425,
+    "Longitude": 10.2959,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000326",
+    "Latitude": 43.5431,
+    "Longitude": 10.2957,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000327",
+    "Latitude": 43.5466,
+    "Longitude": 10.2185,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000328",
+    "Latitude": 43.5459,
+    "Longitude": 10.2184,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000329",
+    "Latitude": 43.5466,
+    "Longitude": 10.2211,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000330",
+    "Latitude": 43.5425,
+    "Longitude": 10.2965,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000331",
+    "Latitude": 43.5419,
+    "Longitude": 10.2967,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000332",
+    "Latitude": 43.5431,
+    "Longitude": 10.2954,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000333",
+    "Latitude": 43.5543,
+    "Longitude": 10.2614,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000334",
+    "Latitude": 43.5485,
+    "Longitude": 10.2623,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000335",
+    "Latitude": 43.5421,
+    "Longitude": 10.2963,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000336",
+    "Latitude": 43.5505,
+    "Longitude": 10.2655,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000337",
+    "Latitude": 43.5426,
+    "Longitude": 10.2967,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000338",
+    "Latitude": 43.5416,
+    "Longitude": 10.2248,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000339",
+    "Latitude": 43.5466,
+    "Longitude": 10.2221,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000340",
+    "Latitude": 43.5453,
+    "Longitude": 10.2195,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000341",
+    "Latitude": 43.5468,
+    "Longitude": 10.2199,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000342",
+    "Latitude": 43.5427,
+    "Longitude": 10.2956,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000343",
+    "Latitude": 43.5418,
+    "Longitude": 10.2969,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000344",
+    "Latitude": 43.552,
+    "Longitude": 10.2633,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000345",
+    "Latitude": 43.5545,
+    "Longitude": 10.2667,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000346",
+    "Latitude": 43.5463,
+    "Longitude": 10.2183,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000347",
+    "Latitude": 43.5426,
+    "Longitude": 10.2949,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000348",
+    "Latitude": 43.542,
+    "Longitude": 10.2955,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000349",
+    "Latitude": 43.5416,
+    "Longitude": 10.2961,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000350",
+    "Latitude": 43.5476,
+    "Longitude": 10.2585,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000351",
+    "Latitude": 43.5425,
+    "Longitude": 10.2962,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000352",
+    "Latitude": 43.5544,
+    "Longitude": 10.2611,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000353",
+    "Latitude": 43.5485,
+    "Longitude": 10.2132,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000354",
+    "Latitude": 43.549,
+    "Longitude": 10.2188,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000355",
+    "Latitude": 43.5446,
+    "Longitude": 10.219,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Italy",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000356",
+    "Latitude": 43.5466,
+    "Longitude": 10.2183,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000357",
+    "Latitude": 43.5466,
+    "Longitude": 10.2192,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Italy",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000358",
+    "Latitude": 43.5481,
+    "Longitude": 10.2204,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Fiorano al serio",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000359",
+    "Latitude": 45.803439,
+    "Longitude": 9.837264,
+    "Region": "Lombardy"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000360",
+    "Latitude": 43.5422,
+    "Longitude": 10.2956,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000361",
+    "Latitude": 43.5425,
+    "Longitude": 10.2963,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000362",
+    "Latitude": 43.5463,
+    "Longitude": 10.2181,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000363",
+    "Latitude": 43.5429,
+    "Longitude": 10.2948,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000364",
+    "Latitude": 43.5437,
+    "Longitude": 10.2935,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000365",
+    "Latitude": 43.5425,
+    "Longitude": 10.2953,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000366",
+    "Latitude": 43.5424,
+    "Longitude": 10.2951,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000367",
+    "Latitude": 43.5424,
+    "Longitude": 10.2947,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000368",
+    "Latitude": 43.5422,
+    "Longitude": 10.2946,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000369",
+    "Latitude": 43.5422,
+    "Longitude": 10.2947,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000370",
+    "Latitude": 43.5427,
+    "Longitude": 10.2946,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000371",
+    "Latitude": 43.5424,
+    "Longitude": 10.2953,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000372",
+    "Latitude": 43.5419,
+    "Longitude": 10.295,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000373",
+    "Latitude": 43.5424,
+    "Longitude": 10.295,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000374",
+    "Latitude": 43.5423,
+    "Longitude": 10.2948,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000375",
+    "Latitude": 43.5417,
+    "Longitude": 10.295,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000376",
+    "Latitude": 43.543,
+    "Longitude": 10.2947,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000377",
+    "Latitude": 43.5421,
+    "Longitude": 10.2953,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000378",
+    "Latitude": 43.545,
+    "Longitude": 10.2586,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000379",
+    "Latitude": 43.5447,
+    "Longitude": 10.2604,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000380",
+    "Latitude": 43.544,
+    "Longitude": 10.2623,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000381",
+    "Latitude": 43.547,
+    "Longitude": 10.2191,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000382",
+    "Latitude": 43.5423,
+    "Longitude": 10.295,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000383",
+    "Latitude": 43.5469,
+    "Longitude": 10.2188,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000384",
+    "Latitude": 43.5442,
+    "Longitude": 10.2594,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000385",
+    "Latitude": 43.547,
+    "Longitude": 10.2189,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000386",
+    "Latitude": 43.5429,
+    "Longitude": 10.2608,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000387",
+    "Latitude": 43.544,
+    "Longitude": 10.2587,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000388",
+    "Latitude": 43.5442,
+    "Longitude": 10.2603,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000389",
+    "Latitude": 43.5469,
+    "Longitude": 10.2193,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000390",
+    "Latitude": 43.5441,
+    "Longitude": 10.2608,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000391",
+    "Latitude": 43.547,
+    "Longitude": 10.2191,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000392",
+    "Latitude": 43.5452,
+    "Longitude": 10.2628,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000393",
+    "Latitude": 43.544,
+    "Longitude": 10.2611,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000394",
+    "Latitude": 43.5446,
+    "Longitude": 10.2586,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000395",
+    "Latitude": 43.5444,
+    "Longitude": 10.2582,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000396",
+    "Latitude": 43.545,
+    "Longitude": 10.2618,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000397",
+    "Latitude": 43.5439,
+    "Longitude": 10.262,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000398",
+    "Latitude": 43.5471,
+    "Longitude": 10.219,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000399",
+    "Latitude": 43.5446,
+    "Longitude": 10.263,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000400",
+    "Latitude": 43.5444,
+    "Longitude": 10.2611,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000401",
+    "Latitude": 43.5451,
+    "Longitude": 10.2582,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000402",
+    "Latitude": 43.5445,
+    "Longitude": 10.2586,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000403",
+    "Latitude": 43.547,
+    "Longitude": 10.2193,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000404",
+    "Latitude": 43.5442,
+    "Longitude": 10.2589,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000405",
+    "Latitude": 43.5421,
+    "Longitude": 10.2955,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000406",
+    "Latitude": 43.5459,
+    "Longitude": 10.2572,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000407",
+    "Latitude": 43.542,
+    "Longitude": 10.2958,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000408",
+    "Latitude": 43.5447,
+    "Longitude": 10.2577,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000409",
+    "Latitude": 43.5471,
+    "Longitude": 10.2192,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000410",
+    "Latitude": 43.5442,
+    "Longitude": 10.2582,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000411",
+    "Latitude": 43.5471,
+    "Longitude": 10.2191,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000412",
+    "Latitude": 43.545,
+    "Longitude": 10.2605,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000413",
+    "Latitude": 43.5449,
+    "Longitude": 10.2604,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000414",
+    "Latitude": 43.5446,
+    "Longitude": 10.2574,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000415",
+    "Latitude": 43.5423,
+    "Longitude": 10.2956,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000416",
+    "Latitude": 43.542,
+    "Longitude": 10.296,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000417",
+    "Latitude": 43.5505,
+    "Longitude": 10.2605,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000418",
+    "Latitude": 43.5476,
+    "Longitude": 10.218,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000419",
+    "Latitude": 43.5476,
+    "Longitude": 10.2197,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000420",
+    "Latitude": 43.5417,
+    "Longitude": 10.2958,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000421",
+    "Latitude": 43.5427,
+    "Longitude": 10.2951,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000422",
+    "Latitude": 43.549,
+    "Longitude": 10.2624,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000423",
+    "Latitude": 43.5471,
+    "Longitude": 10.264,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000424",
+    "Latitude": 43.5441,
+    "Longitude": 10.2605,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 118,
+    "City": "Asti",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000425",
+    "Latitude": 44.8976,
+    "Longitude": 8.2083,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 119,
+    "City": "Asti",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000426",
+    "Latitude": 44.8978,
+    "Longitude": 8.2081,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 115,
+    "City": "Asti",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000427",
+    "Latitude": 44.8975,
+    "Longitude": 8.2089,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 115,
+    "City": "Asti",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000428",
+    "Latitude": 44.8974,
+    "Longitude": 8.2088,
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Figuiera",
+    "Country": "Argentina",
+    "CountryCode": "AR",
+    "ID": "L000429",
+    "Latitude": -33.104,
+    "Longitude": -60.2608,
+    "Region": "Santa Fe"
+  },
+  {
+    "City": "Bash Kunjuth",
+    "Country": "Azerbaijan",
+    "CountryCode": "AZ",
+    "ID": "L000430",
+    "Region": "Shaki"
+  },
+  {
+    "City": "Bunud",
+    "Country": "Azerbaijan",
+    "CountryCode": "AZ",
+    "ID": "L000431",
+    "Region": "Qabala"
+  },
+  {
+    "Altitude": 349,
+    "City": "Saluzzo",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000432",
+    "Latitude": 44.6459,
+    "Longitude": 7.4944,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 354,
+    "City": "Saluzzo",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000433",
+    "Latitude": 44.6434,
+    "Longitude": 7.4971,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 352,
+    "City": "Saluzzo",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000434",
+    "Latitude": 44.6444,
+    "Longitude": 7.4978,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 351,
+    "City": "Saluzzo",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000435",
+    "Latitude": 44.6456,
+    "Locality": "Stella",
+    "Longitude": 7.4934,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 353,
+    "City": "Saluzzo",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000436",
+    "Latitude": 44.6427,
+    "Longitude": 7.4934,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 353,
+    "City": "Saluzzo",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000437",
+    "Latitude": 44.6401,
+    "Longitude": 7.4995,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 354,
+    "City": "Saluzzo",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000438",
+    "Latitude": 44.6421,
+    "Longitude": 7.494,
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000439",
+    "Latitude": 43.5545,
+    "Longitude": 10.2066,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000440",
+    "Latitude": 43.55,
+    "Longitude": 10.2667,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000441",
+    "Latitude": 43.5505,
+    "Longitude": 10.2599,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000442",
+    "Latitude": 43.5466,
+    "Longitude": 10.2681,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000443",
+    "Latitude": 43.551,
+    "Longitude": 10.2654,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000444",
+    "Latitude": 43.5476,
+    "Longitude": 10.265,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000445",
+    "Latitude": 43.5505,
+    "Longitude": 10.2667,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000446",
+    "Latitude": 43.5433,
+    "Longitude": 10.2949,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000447",
+    "Latitude": 43.5431,
+    "Longitude": 10.2962,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Roburent",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000448",
+    "Latitude": 44.2402139,
+    "Longitude": 7.8485798,
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Frabosa Soprana",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000449",
+    "Latitude": 44.241548,
+    "Longitude": 7.8398498,
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Frabosa Soprana",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000450",
+    "Latitude": 44.241548,
+    "Longitude": 7.8398498
+  },
+  {
+    "City": "Frabosa Soprana",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000451",
+    "Latitude": 44.241548,
+    "Longitude": 7.8398498,
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Roburent",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000452",
+    "Latitude": 44.2402139,
+    "Longitude": 7.8485798
+  },
+  {
+    "Altitude": 899,
+    "City": "Fontane",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000453",
+    "Latitude": 44.2423,
+    "Locality": "Case Banduino",
+    "Longitude": 7.8398,
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Settimo Torinese",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000454"
+  },
+  {
+    "City": "Settimo Torinese",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000455",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Frabosa Soprana",
+    "Country": "ITALY",
+    "CountryCode": "IT",
+    "ID": "L000456",
+    "Latitude": 44.241548,
+    "Longitude": 7.8398498
+  },
+  {
+    "City": "Frabosa Soprana",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000457",
+    "Latitude": 44.241548,
+    "Longitude": 7.8398498,
+    "Region": "Piemonte"
+  },
+  {
+    "City": "FRABOSA SOPRANA",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000458",
+    "Latitude": 44.241548,
+    "Longitude": 7.8398498,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 15,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000459",
+    "Latitude": 43.5278,
+    "Longitude": 10.3271,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 7,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000460",
+    "Latitude": 43.5677,
+    "Longitude": 10.3107,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 4,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000461",
+    "Latitude": 43.57,
+    "Longitude": 10.3189,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 9,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000462",
+    "Latitude": 43.5621,
+    "Longitude": 10.3244,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 13,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000463",
+    "Latitude": 43.5517,
+    "Longitude": 10.3217,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 15,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000464",
+    "Latitude": 43.5462,
+    "Longitude": 10.3244,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000465",
+    "Locality": "ISPRA",
+    "Region": "Liguria"
+  },
+  {
+    "Altitude": 4,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000466",
+    "Latitude": 43.5541,
+    "Longitude": 10.3024,
+    "Region": "Tuscany"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000467",
+    "Latitude": 43.5382,
+    "Longitude": 10.2969
+  },
+  {
+    "Altitude": 116,
+    "City": "Asti",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000468",
+    "Latitude": 44.8975,
+    "Longitude": 8.2087,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 115,
+    "City": "Asti",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000469",
+    "Latitude": 44.8974,
+    "Longitude": 8.2089,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 115,
+    "City": "Asti",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000470",
+    "Latitude": 44.8972,
+    "Longitude": 8.2089,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 114,
+    "City": "Asti",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000471",
+    "Latitude": 44.8973,
+    "Longitude": 8.2091,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 116,
+    "City": "Asti",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000472",
+    "Latitude": 44.8975,
+    "Longitude": 8.2088,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 116,
+    "City": "Asti",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000473",
+    "Latitude": 44.8976,
+    "Longitude": 8.2088,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 118,
+    "City": "Asti",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000474",
+    "Latitude": 44.8983,
+    "Longitude": 8.209,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 114,
+    "City": "Asti",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000475",
+    "Latitude": 44.8974,
+    "Longitude": 8.2093,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 116,
+    "City": "Asti",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000476",
+    "Latitude": 44.8976,
+    "Longitude": 8.2089,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 115,
+    "City": "Asti",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000477",
+    "Latitude": 44.8976,
+    "Longitude": 8.209,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 115,
+    "City": "Asti",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000478",
+    "Latitude": 44.8972,
+    "Longitude": 8.209,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 114,
+    "City": "Asti",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000479",
+    "Latitude": 44.8974,
+    "Longitude": 8.2091,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 115,
+    "City": "Asti",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000480",
+    "Latitude": 44.8975,
+    "Longitude": 8.209,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 115,
+    "City": "Asti",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000481",
+    "Latitude": 44.8972,
+    "Longitude": 8.2091,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 115,
+    "City": "Asti",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000482",
+    "Latitude": 44.8974,
+    "Longitude": 8.209,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 116,
+    "City": "Asti",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000483",
+    "Latitude": 44.8974,
+    "Longitude": 8.2087,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 118,
+    "City": "Asti",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000484",
+    "Latitude": 44.8981,
+    "Longitude": 8.2087,
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Cuneo",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000485",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Alessandria",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000486",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Cuneo",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000487",
+    "Region": "Piedmonttest"
+  },
+  {
+    "City": "Copenhagen",
+    "Country": "Denmark",
+    "CountryCode": "DK",
+    "ID": "L000488",
+    "Latitude": 55.8519,
+    "Locality": "Jaegerspris",
+    "Longitude": 11.9565,
+    "Region": "Capital Region of Denmark"
+  },
+  {
+    "City": "Copenhagen",
+    "Country": "Denmark",
+    "CountryCode": "DK",
+    "ID": "L000489",
+    "Latitude": 55.8519,
+    "Locality": "Jaegerspris",
+    "Longitude": 11.9565,
+    "Region": "Capital Region of Denmark"
+  },
+  {
+    "City": "Copenhagen",
+    "Country": "Denmark",
+    "CountryCode": "DK",
+    "ID": "L000490",
+    "Latitude": 55.9519,
+    "Locality": "Jaegerspris",
+    "Longitude": 11.8565,
+    "Region": "Capital Region of Denmark"
+  },
+  {
+    "City": "Copenhagen",
+    "Country": "Denmark",
+    "CountryCode": "DK",
+    "ID": "L000491",
+    "Locality": "Jaegerspris",
+    "Region": "Capital Region of Denmark"
+  },
+  {
+    "City": "Copenhagen",
+    "Country": "Denmark",
+    "CountryCode": "DK",
+    "ID": "L000492",
+    "Latitude": 55.8519,
+    "Locality": "Jaegerspris",
+    "Longitude": 11.6595,
+    "Region": "Capital Region of Denmark"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000493",
+    "Latitude": 43.5425,
+    "Longitude": 10.2952
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000494",
+    "Latitude": 43.5433,
+    "Longitude": 10.294
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000495",
+    "Latitude": 43.5428,
+    "Longitude": 10.2957
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000496",
+    "Latitude": 43.5439,
+    "Longitude": 10.2938
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000497",
+    "Latitude": 43.543,
+    "Longitude": 10.2933
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000498",
+    "Latitude": 43.5503,
+    "Longitude": 10.2032
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000499",
+    "Latitude": 43.5571,
+    "Longitude": 10.1945
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000500",
+    "Latitude": 43.5539,
+    "Longitude": 10.2623
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000501",
+    "Latitude": 43.5464,
+    "Longitude": 10.2885
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000502",
+    "Latitude": 43.5421,
+    "Longitude": 10.2969
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000503",
+    "Latitude": 43.5499,
+    "Longitude": 10.2939
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000504",
+    "Latitude": 43.5456,
+    "Longitude": 10.2885
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000505",
+    "Latitude": 43.5559,
+    "Longitude": 10.2666
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000506",
+    "Latitude": 43.5442,
+    "Longitude": 10.292
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000507",
+    "Latitude": 43.5405,
+    "Longitude": 10.2546
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000508",
+    "Latitude": 43.5419,
+    "Longitude": 10.2964
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000509",
+    "Latitude": 43.5471,
+    "Longitude": 10.2087
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000510",
+    "Latitude": 43.5462,
+    "Longitude": 10.2158
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000511",
+    "Latitude": 43.5464,
+    "Longitude": 10.2938
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000512",
+    "Latitude": 43.5495,
+    "Longitude": 10.2897
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000513",
+    "Latitude": 43.5564,
+    "Longitude": 10.2568
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000514",
+    "Latitude": 43.5467,
+    "Longitude": 10.2913
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000515",
+    "Latitude": 43.547,
+    "Longitude": 10.2899
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000516",
+    "Latitude": 43.5456,
+    "Longitude": 10.2771
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000517",
+    "Latitude": 43.5491,
+    "Longitude": 10.2194
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000518",
+    "Latitude": 43.549,
+    "Longitude": 10.2109
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000519",
+    "Latitude": 43.5431,
+    "Longitude": 10.2945,
+    "Region": "Tuscany"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000520",
+    "Latitude": 43.5506,
+    "Longitude": 10.2304
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000521",
+    "Latitude": 43.5512,
+    "Longitude": 10.2166
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000522",
+    "Latitude": 43.5449,
+    "Longitude": 10.2899
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000523",
+    "Latitude": 43.5513,
+    "Longitude": 10.2829
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000524",
+    "Latitude": 43.5546,
+    "Longitude": 10.2194
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000525",
+    "Latitude": 43.5504,
+    "Longitude": 10.2633
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000526",
+    "Latitude": 43.5571,
+    "Longitude": 10.2661
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000527",
+    "Latitude": 43.5436,
+    "Longitude": 10.2941
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000528",
+    "Latitude": 43.5501,
+    "Longitude": 10.2075
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000529",
+    "Latitude": 43.548,
+    "Longitude": 10.2142
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000530",
+    "Latitude": 43.5459,
+    "Longitude": 10.262
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000531",
+    "Latitude": 43.5575,
+    "Longitude": 10.2111
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000532",
+    "Latitude": 43.5439,
+    "Longitude": 10.2941
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000533",
+    "Latitude": 43.5508,
+    "Longitude": 10.265
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000534",
+    "Latitude": 43.5452,
+    "Longitude": 10.29
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000535",
+    "Latitude": 43.5437,
+    "Longitude": 10.2945,
+    "Region": "Tuscany"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000536",
+    "Latitude": 43.5443,
+    "Longitude": 10.2914
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000537",
+    "Latitude": 43.5461,
+    "Longitude": 10.294
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000538",
+    "Latitude": 43.5505,
+    "Longitude": 10.2638
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000539",
+    "Latitude": 43.554,
+    "Longitude": 10.2633
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000540",
+    "Latitude": 43.5473,
+    "Longitude": 10.2678
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000541",
+    "Latitude": 43.5499,
+    "Longitude": 10.265
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000542",
+    "Latitude": 43.5559,
+    "Longitude": 10.2623
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000543",
+    "Latitude": 43.5472,
+    "Longitude": 10.2691
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000544",
+    "Latitude": 43.547,
+    "Longitude": 10.292
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000545",
+    "Latitude": 43.5468,
+    "Longitude": 10.2954
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000546",
+    "Latitude": 43.5477,
+    "Longitude": 10.292
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000547",
+    "Latitude": 43.5448,
+    "Longitude": 10.292
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000548",
+    "Latitude": 43.5477,
+    "Longitude": 10.217
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000549",
+    "Latitude": 43.5498,
+    "Longitude": 10.2252
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000550",
+    "Latitude": 43.5441,
+    "Longitude": 10.2906
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000551",
+    "Latitude": 43.5444,
+    "Longitude": 10.2156
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000552",
+    "Latitude": 43.5488,
+    "Longitude": 10.2952
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000553",
+    "Latitude": 43.5457,
+    "Longitude": 10.2938
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000554",
+    "Latitude": 43.5491,
+    "Longitude": 10.2664
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000555",
+    "Latitude": 43.5518,
+    "Longitude": 10.2598
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000556",
+    "Latitude": 43.5465,
+    "Longitude": 10.217
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000557",
+    "Latitude": 43.5333,
+    "Longitude": 10.1824
+  },
+  {
+    "Country": "Egypt",
+    "CountryCode": "EG",
+    "ID": "L000558",
+    "Latitude": 31.46,
+    "Longitude": 31.779527777777776,
+    "Region": "Damietta Governorate (El-Sananya)"
+  },
+  {
+    "City": "Kafr El Sheikh",
+    "Country": "Egypt",
+    "CountryCode": "EG",
+    "ID": "L000559",
+    "Latitude": 31.4249,
+    "Longitude": 30.8125
+  },
+  {
+    "City": "Kafr El Sheikh",
+    "Country": "Egypt",
+    "CountryCode": "EG",
+    "ID": "L000560",
+    "Latitude": 31.43627,
+    "Longitude": 30.77864
+  },
+  {
+    "City": "Manuf",
+    "Country": "Egypt",
+    "CountryCode": "EG",
+    "ID": "L000561",
+    "Latitude": 30.46579,
+    "Longitude": 30.93164,
+    "Region": "Monofeya Governorate"
+  },
+  {
+    "Country": "Egypt",
+    "CountryCode": "EG",
+    "ID": "L000562",
+    "Latitude": 31.14514,
+    "Longitude": 30.95013,
+    "Region": "Kafr El-Sheikh Governorate"
+  },
+  {
+    "Country": "Egypt",
+    "CountryCode": "EG",
+    "ID": "L000563",
+    "Latitude": 31.41754,
+    "Longitude": 31.814444,
+    "Region": "Damietta Governorate - New Damietta"
+  },
+  {
+    "Country": "Egypt",
+    "CountryCode": "EG",
+    "ID": "L000564",
+    "Latitude": 31.14766,
+    "Longitude": 30.9514,
+    "Region": "Kafr El-Sheikh Governorate"
+  },
+  {
+    "Country": "United States of America",
+    "CountryCode": "US",
+    "ID": "L000565"
+  },
+  {
+    "Country": "Spain",
+    "CountryCode": "ES",
+    "ID": "L000566",
+    "Region": "Albacete"
+  },
+  {
+    "Country": "Spain",
+    "CountryCode": "ES",
+    "ID": "L000567",
+    "Region": "Sevilla"
+  },
+  {
+    "Country": "Spain",
+    "CountryCode": "ES",
+    "ID": "L000568",
+    "Locality": "Camporreal"
+  },
+  {
+    "City": "Torino",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000569",
+    "Latitude": 45.0916485,
+    "Locality": "Parco del Meisino - Orto 53",
+    "Longitude": 7.7226626
+  },
+  {
+    "City": "Torino",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000570",
+    "Latitude": 45.0916485,
+    "Locality": "Parco del Meisino - Orto 53",
+    "Longitude": 7.7226626
+  },
+  {
+    "City": "Torino",
+    "Country": "ITALY",
+    "CountryCode": "IT",
+    "ID": "L000571",
+    "Latitude": 45.0916485,
+    "Locality": "Parco del Meisino - Orto 53",
+    "Longitude": 7.7226626
+  },
+  {
+    "City": "Torino",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000572",
+    "Latitude": 45.0916485,
+    "Longitude": 7.7226626
+  },
+  {
+    "City": "Torino",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000573",
+    "Latitude": 45.0916485,
+    "Locality": "Parco",
+    "Longitude": 7.7226626
+  },
+  {
+    "City": "Torino",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000574",
+    "Latitude": 45.0916485,
+    "Longitude": 7.7226626
+  },
+  {
+    "Altitude": 0,
+    "City": "San Bartolomé de Tirajana",
+    "Country": "Spain",
+    "CountryCode": "ES",
+    "ID": "L000575",
+    "Latitude": 27.7547,
+    "Locality": "El Pajar",
+    "Longitude": -15.6668
+  },
+  {
+    "Altitude": 0,
+    "City": "San Bartolomé de Tirajana",
+    "Country": "Spain",
+    "CountryCode": "ES",
+    "ID": "L000576",
+    "Latitude": 27.7547,
+    "Locality": "El Pajar",
+    "Longitude": -15.6668,
+    "Region": "Las Palmas"
+  },
+  {
+    "Altitude": 0,
+    "City": "San Bartolomé de Tirajana",
+    "Country": "Spain",
+    "CountryCode": "ES",
+    "ID": "L000577",
+    "Latitude": 27.7954,
+    "Locality": "Castillo Romeral",
+    "Longitude": -15.4588,
+    "Region": "Las Palmas"
+  },
+  {
+    "Altitude": 0,
+    "City": "San Bartolomé de Tirajana",
+    "Country": "SPAIN",
+    "CountryCode": "ES",
+    "ID": "L000578",
+    "Latitude": 27.7954,
+    "Locality": "Castillo Romeral",
+    "Longitude": -15.4588,
+    "Region": "Las Palmas"
+  },
+  {
+    "Country": "Antarctica",
+    "CountryCode": "AQ",
+    "ID": "L000579",
+    "Locality": "Campo Icaro",
+    "Region": "Antarctica"
+  },
+  {
+    "Altitude": 0,
+    "Country": "SPAIN",
+    "CountryCode": "ES",
+    "ID": "L000580",
+    "Latitude": 37.7603,
+    "Longitude": -0.7704
+  },
+  {
+    "Altitude": 0,
+    "Country": "Spain",
+    "CountryCode": "ES",
+    "ID": "L000581",
+    "Latitude": 37.7603,
+    "Longitude": -0.7704
+  },
+  {
+    "Altitude": 0,
+    "Country": "Spain",
+    "CountryCode": "ES",
+    "ID": "L000582",
+    "Latitude": 27.7954,
+    "Locality": "Castillo Romeral",
+    "Longitude": -15.4588,
+    "Region": "Las Palmas"
+  },
+  {
+    "Altitude": 0,
+    "Country": "Spain",
+    "CountryCode": "ES",
+    "ID": "L000583",
+    "Latitude": 37.579,
+    "Longitude": -0.8502
+  },
+  {
+    "Altitude": 0,
+    "City": "La Unión",
+    "Country": "Spain",
+    "CountryCode": "ES",
+    "ID": "L000584",
+    "Latitude": 37.579,
+    "Longitude": -0.8502,
+    "Region": "Region of Murcia"
+  },
+  {
+    "Altitude": 0,
+    "Country": "SPAIN",
+    "CountryCode": "ES",
+    "ID": "L000585",
+    "Latitude": 27.7547,
+    "Longitude": -15.6668
+  },
+  {
+    "Altitude": 0,
+    "Country": "Spain",
+    "CountryCode": "ES",
+    "ID": "L000586",
+    "Latitude": 27.7954,
+    "Longitude": -15.4588
+  },
+  {
+    "Altitude": 0,
+    "Country": "Spain",
+    "CountryCode": "ES",
+    "ID": "L000587",
+    "Latitude": 27.7547,
+    "Longitude": -15.6668
+  },
+  {
+    "Altitude": 0,
+    "Country": "Spain",
+    "CountryCode": "ES",
+    "ID": "L000588",
+    "Latitude": 37.7603,
+    "Longitude": -0.7704
+  },
+  {
+    "Altitude": 0,
+    "Country": "Spain",
+    "CountryCode": "ES",
+    "ID": "L000589",
+    "Latitude": 27.7547,
+    "Longitude": -15.6668
+  },
+  {
+    "Altitude": 0,
+    "Country": "SPAIN",
+    "CountryCode": "ES",
+    "ID": "L000590",
+    "Latitude": 37.579,
+    "Longitude": -0.8502
+  },
+  {
+    "Altitude": 232,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000591",
+    "Latitude": 44.88333,
+    "Locality": "Carmagnola",
+    "Longitude": 7.68333,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 232,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000592",
+    "Latitude": 44.8833,
+    "Locality": "Carmagnola",
+    "Longitude": 7.68333,
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000593",
+    "Latitude": 45.0916485,
+    "Locality": "Parco del Meisino - Orto 53",
+    "Longitude": 7.7226626
+  },
+  {
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000594",
+    "Latitude": 45.0916485,
+    "Longitude": 7.7226626
+  },
+  {
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000595",
+    "Latitude": 45.0916485,
+    "Locality": "Parco del Meisino - Orto 53",
+    "Longitude": 7.7226626
+  },
+  {
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000596"
+  },
+  {
+    "Altitude": 232,
+    "City": "Torino",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000597",
+    "Latitude": 44.88333,
+    "Locality": "Carmagnola",
+    "Longitude": 7.68333,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000598",
+    "Latitude": 43.5603,
+    "Longitude": 10.2658,
+    "Region": "Toscana"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000599",
+    "Latitude": 43.5531,
+    "Longitude": 10.2688,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000600",
+    "Latitude": 43.5481,
+    "Longitude": 10.2708,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000601",
+    "Latitude": 43.5486,
+    "Longitude": 10.266,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000602",
+    "Latitude": 43.556,
+    "Longitude": 10.2663,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000603",
+    "Latitude": 43.554,
+    "Longitude": 10.2727,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000604",
+    "Latitude": 43.5628,
+    "Longitude": 10.2655,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000605",
+    "Latitude": 43.556,
+    "Longitude": 10.264,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000606",
+    "Latitude": 43.5647,
+    "Longitude": 10.2608,
+    "Region": "Tuscnay"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000607",
+    "Latitude": 43.564,
+    "Longitude": 370.2713,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000608",
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000609",
+    "Latitude": 43.5564,
+    "Longitude": 10.2731,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000610",
+    "Latitude": 43.5496,
+    "Longitude": 10.2649,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000611",
+    "Latitude": 43.5594,
+    "Longitude": 10.2576,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000612",
+    "Latitude": 43.5616,
+    "Longitude": 10.2708,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000613",
+    "Latitude": 43.5571,
+    "Longitude": 10.264,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000614",
+    "Latitude": 43.5551,
+    "Longitude": 10.2694,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000615",
+    "Latitude": 43.5518,
+    "Longitude": 10.2633,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000616",
+    "Latitude": 43.5617,
+    "Longitude": 10.2654,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000617",
+    "Latitude": 43.5459,
+    "Longitude": 10.2247,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000618",
+    "Latitude": 43.5527,
+    "Longitude": 10.2592,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000619",
+    "Latitude": 43.5521,
+    "Longitude": 10.2671,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000620",
+    "Latitude": 43.5517,
+    "Longitude": 10.2605,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000621",
+    "Latitude": 43.5516,
+    "Longitude": 10.265,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000622",
+    "Latitude": 43.5529,
+    "Longitude": 10.2434,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000623",
+    "Latitude": 43.5617,
+    "Longitude": 10.2621,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000624",
+    "Latitude": 43.5469,
+    "Longitude": 10.2713,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000625",
+    "Latitude": 43.5463,
+    "Longitude": 10.2612,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000626",
+    "Latitude": 43.5496,
+    "Longitude": 10.2695,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000627",
+    "Latitude": 43.5529,
+    "Longitude": 10.2681,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000628",
+    "Latitude": 43.5536,
+    "Longitude": 10.2669,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000629",
+    "Latitude": 43.5556,
+    "Longitude": 10.2512,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000630",
+    "Latitude": 43.5485,
+    "Longitude": 10.2681,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000631",
+    "Latitude": 43.5604,
+    "Longitude": 10.2667,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000632",
+    "Latitude": 43.5475,
+    "Longitude": 10.266,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000633",
+    "Latitude": 43.5465,
+    "Longitude": 10.2592,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000634",
+    "Latitude": 43.5455,
+    "Longitude": 10.266,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000635",
+    "Latitude": 43.5475,
+    "Longitude": 10.2647,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000636",
+    "Latitude": 43.5498,
+    "Longitude": 10.2683,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000637",
+    "Latitude": 43.5505,
+    "Longitude": 10.2619,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000638",
+    "Latitude": 43.5485,
+    "Longitude": 10.266,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000639",
+    "Latitude": 43.5525,
+    "Longitude": 10.2578,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000640",
+    "Latitude": 43.5513,
+    "Longitude": 10.2686,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000641",
+    "Latitude": 43.5495,
+    "Longitude": 10.2633,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000642",
+    "Latitude": 43.5538,
+    "Longitude": 10.2683,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000643",
+    "Latitude": 43.5492,
+    "Longitude": 10.2676,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000644",
+    "Latitude": 43.5464,
+    "Longitude": 10.264,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000645",
+    "Latitude": 43.554,
+    "Longitude": 10.2621,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000646",
+    "Latitude": 43.5477,
+    "Longitude": 10.2736,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000647",
+    "Latitude": 43.5495,
+    "Longitude": 10.2715,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000648",
+    "Latitude": 43.5505,
+    "Longitude": 10.2667,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000649",
+    "Latitude": 43.5465,
+    "Longitude": 10.2654,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000650",
+    "Latitude": 43.5472,
+    "Longitude": 10.2654,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000651",
+    "Latitude": 43.5445,
+    "Longitude": 10.2763,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000652",
+    "Latitude": 43.551,
+    "Longitude": 10.2678,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000653",
+    "Latitude": 43.5495,
+    "Longitude": 10.2605,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000654",
+    "Latitude": 43.5512,
+    "Longitude": 10.2667,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000655",
+    "Latitude": 43.5478,
+    "Longitude": 10.2713,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000656",
+    "Latitude": 43.5432,
+    "Longitude": 10.2603,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000657",
+    "Latitude": 43.5465,
+    "Longitude": 10.2681,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000658",
+    "Latitude": 43.5485,
+    "Longitude": 10.2763,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000659",
+    "Latitude": 43.5535,
+    "Longitude": 10.2702,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000660",
+    "Latitude": 43.5505,
+    "Longitude": 10.2736,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000661",
+    "Latitude": 43.5495,
+    "Longitude": 10.2688,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000662",
+    "Latitude": 43.5505,
+    "Longitude": 10.2681,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000663",
+    "Latitude": 43.5465,
+    "Longitude": 10.2599,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000664",
+    "Latitude": 43.5535,
+    "Longitude": 10.266,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000665",
+    "Latitude": 43.555,
+    "Longitude": 10.2664,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000666",
+    "Latitude": 43.5495,
+    "Longitude": 10.2702,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000667",
+    "Latitude": 43.5525,
+    "Longitude": 10.2674,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000668",
+    "Latitude": 43.5505,
+    "Longitude": 10.2571,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000669",
+    "Latitude": 43.5525,
+    "Longitude": 10.2654,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000670",
+    "Latitude": 43.5545,
+    "Longitude": 10.2729,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000671",
+    "Latitude": 43.5495,
+    "Longitude": 10.265,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000672",
+    "Latitude": 43.5475,
+    "Longitude": 10.2619,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000673",
+    "Latitude": 43.5545,
+    "Longitude": 10.2633,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000674",
+    "Latitude": 43.5505,
+    "Longitude": 10.2599,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000675",
+    "Latitude": 43.5484,
+    "Longitude": 10.2631,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000676",
+    "Latitude": 43.5426,
+    "Longitude": 10.266,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000677",
+    "Latitude": 43.5475,
+    "Longitude": 10.2619,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000678",
+    "Latitude": 43.5465,
+    "Longitude": 10.2635,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000679",
+    "Latitude": 43.5416,
+    "Longitude": 10.2633,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000680",
+    "Latitude": 43.5366,
+    "Longitude": 10.2708,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000681",
+    "Latitude": 43.5465,
+    "Longitude": 10.2702,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000682",
+    "Latitude": 43.5365,
+    "Longitude": 10.2859,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000683",
+    "Latitude": 43.5485,
+    "Longitude": 10.2633,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000684",
+    "Latitude": 43.5426,
+    "Longitude": 10.2605,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000685",
+    "Latitude": 43.5515,
+    "Longitude": 10.2647,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000686",
+    "Latitude": 43.5495,
+    "Longitude": 10.2647,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000687",
+    "Latitude": 43.5452,
+    "Longitude": 10.2667,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000688",
+    "Latitude": 43.5485,
+    "Longitude": 10.2688,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000689",
+    "Latitude": 43.5459,
+    "Longitude": 10.2548,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000690",
+    "Latitude": 43.5512,
+    "Longitude": 10.2686,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000691",
+    "Latitude": 43.5465,
+    "Longitude": 10.2644,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000692",
+    "Latitude": 43.5459,
+    "Longitude": 10.2686,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000693",
+    "Latitude": 43.5492,
+    "Longitude": 10.2658,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000694",
+    "Latitude": 43.5478,
+    "Longitude": 10.2658,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000695",
+    "Latitude": 43.5457,
+    "Longitude": 10.2686,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000696",
+    "Latitude": 43.5479,
+    "Longitude": 10.2594,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000697",
+    "Latitude": 43.5459,
+    "Longitude": 10.2658,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000698",
+    "Latitude": 43.5497,
+    "Longitude": 10.2674,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000699",
+    "Latitude": 43.5557,
+    "Longitude": 10.2729,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000700",
+    "Latitude": 43.5515,
+    "Longitude": 10.2757,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000701",
+    "Latitude": 43.5507,
+    "Longitude": 10.2708,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000702",
+    "Latitude": 43.5498,
+    "Longitude": 10.2631,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000703",
+    "Latitude": 43.5512,
+    "Longitude": 10.2681,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000704",
+    "Latitude": 43.5472,
+    "Longitude": 10.2722,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000705",
+    "Latitude": 43.5525,
+    "Longitude": 10.2702,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000706",
+    "Latitude": 43.5565,
+    "Longitude": 10.2635,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000707",
+    "Latitude": 43.5525,
+    "Longitude": 10.2688,
+    "Region": "Tuscany"
+  },
+  {
+    "Altitude": 0,
+    "City": "Livorno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000708",
+    "Latitude": 43.5475,
+    "Longitude": 10.2674,
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Torino",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000709",
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 615,
+    "City": "San Germano Chisone",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000710",
+    "Latitude": 44.8928,
+    "Locality": "di fronte a via Gerbido 17",
+    "Longitude": 7.2339,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 538,
+    "City": "San Germano Chisone",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000711",
+    "Latitude": 44.8956,
+    "Locality": "Borgata Gerbido",
+    "Longitude": 7.2355,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 540,
+    "City": "San Germano Chisone",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000712",
+    "Latitude": 44.8958,
+    "Locality": "Borgata Gerbido",
+    "Longitude": 7.2357,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 540,
+    "City": "San Germano Chisone",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000713",
+    "Latitude": 44.8955,
+    "Locality": "Borgata Gerbido",
+    "Longitude": 7.2355,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 236,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000714",
+    "Latitude": 45.0553,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6862,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 236,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000715",
+    "Latitude": 45.0553,
+    "Longitude": 7.6862,
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000716",
+    "Latitude": 45.005903,
+    "Longitude": 7.796194
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000717",
+    "Latitude": 44.9764,
+    "Longitude": 7.794968
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000718",
+    "Region": "Tuscany"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000719",
+    "Region": "Friuli Venezia Giulia"
+  },
+  {
+    "Altitude": 338,
+    "City": "Athens",
+    "Country": "Greece",
+    "CountryCode": "GR",
+    "ID": "L000720",
+    "Latitude": 37.983941,
+    "Longitude": 23.727539,
+    "Region": "Greece"
+  },
+  {
+    "Altitude": 338,
+    "City": "Athens",
+    "Country": "Greece",
+    "CountryCode": "GR",
+    "ID": "L000721",
+    "Latitude": 37.98381,
+    "Longitude": 23.727539,
+    "Region": "Greece"
+  },
+  {
+    "Altitude": 355,
+    "City": "Gravina di Catania",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000722",
+    "Latitude": 37.560369,
+    "Longitude": 15.061763,
+    "Region": "Sicily"
+  },
+  {
+    "Altitude": 355,
+    "City": "Gravina di Catania",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000723",
+    "Latitude": 37.560369,
+    "Longitude": 15.061763,
+    "Region": "Sicily"
+  },
+  {
+    "Altitude": 293,
+    "City": "Grugliasco",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000724",
+    "Latitude": 45.0671097,
+    "Locality": "Veterinary Teaching Hospital of Dep. of Veterinary Science",
+    "Longitude": 7.589182,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 293,
+    "City": "Grugliasco",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000725",
+    "Latitude": 45.0671098,
+    "Locality": "Veterinary Teaching Hospital of Dep. of Veterinary Science",
+    "Longitude": 7.589182,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 37,
+    "City": "Paris",
+    "Country": "France",
+    "CountryCode": "FR",
+    "ID": "L000726",
+    "Latitude": 48.813181,
+    "Locality": "Maison-Alfort",
+    "Longitude": 2.422546,
+    "Region": "Ile de France"
+  },
+  {
+    "City": "Paris",
+    "Country": "France",
+    "CountryCode": "FR",
+    "ID": "L000727",
+    "Latitude": 48.813181,
+    "Locality": "Maison-Alfort",
+    "Longitude": 2.422546,
+    "Region": "Ile de France"
+  },
+  {
+    "Altitude": 37,
+    "City": "Paris",
+    "Country": "France",
+    "CountryCode": "FR",
+    "ID": "L000728",
+    "Latitude": 48.813181,
+    "Locality": "Maison-Alfort",
+    "Longitude": 2.422546,
+    "Region": "Ile de France"
+  },
+  {
+    "Altitude": 366,
+    "City": "Matelica",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000729",
+    "Latitude": 43.2488,
+    "Locality": "School of Veterinary Medical Science",
+    "Longitude": 13.0039,
+    "Region": "Marche"
+  },
+  {
+    "Altitude": 354,
+    "City": "Matelica",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000730",
+    "Latitude": 43.248368,
+    "Locality": "School of Veterinary Medical Science",
+    "Longitude": 13.004422,
+    "Region": "Marche"
+  },
+  {
+    "Altitude": 239,
+    "City": "Piemonte",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000731",
+    "Latitude": 45.060735,
+    "Longitude": 7.923549,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 239,
+    "City": "Piemonte",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000732",
+    "Latitude": 45.060735,
+    "Longitude": 7.923549,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 239,
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000733",
+    "Latitude": 45.060735,
+    "Longitude": 7.923549,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 249,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000734",
+    "Latitude": 45.0668,
+    "Longitude": 7.6799,
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000735",
+    "Region": "Friuli-Venezia Giulia"
+  },
+  {
+    "Country": "United States of America",
+    "CountryCode": "US",
+    "ID": "L000736",
+    "Region": "California"
+  },
+  {
+    "Altitude": 239,
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000737",
+    "Latitude": 45.060735,
+    "Longitude": 7.923549,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 232,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000738",
+    "Latitude": 45.0375,
+    "Locality": "Nizza Millefonti",
+    "Longitude": 7.6742,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 248,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000739",
+    "Latitude": 45.0605,
+    "Locality": "Circoscrizione 1",
+    "Longitude": 7.6761,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 239,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000740",
+    "Latitude": 45.062,
+    "Locality": "Turin",
+    "Longitude": 7.6764,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 4,
+    "City": "Fermo",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000741",
+    "Latitude": 43.1817,
+    "Locality": "Porto San Giorgio",
+    "Longitude": 13.7902,
+    "Region": "Marche"
+  },
+  {
+    "Altitude": 285,
+    "City": "Cuneo",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000742",
+    "Latitude": 44.7075,
+    "Locality": "Cavallermaggiore",
+    "Longitude": 7.6891,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 785,
+    "City": "Cuneo",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000743",
+    "Latitude": 44.5128,
+    "Locality": "Cuneo",
+    "Longitude": 8.0767,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 293,
+    "City": "Grugliasco",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000744",
+    "Latitude": 45.0676,
+    "Locality": "Grugliasco",
+    "Longitude": 7.5923,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 149,
+    "City": "Brescia",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000745",
+    "Latitude": 45.5404,
+    "Locality": "Brescia",
+    "Longitude": 10.2289,
+    "Region": "Lombardia"
+  },
+  {
+    "Altitude": 286,
+    "City": "Novara",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000746",
+    "Latitude": 45.6512,
+    "Locality": "Pombia",
+    "Longitude": 8.6333,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 162,
+    "City": "Monza",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000747",
+    "Latitude": 45.5825,
+    "Locality": "Monza",
+    "Longitude": 9.2744,
+    "Region": "Lombardia"
+  },
+  {
+    "Altitude": 162,
+    "City": "Monza",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000748",
+    "Latitude": 45.5827,
+    "Locality": "Monza",
+    "Longitude": 9.2742,
+    "Region": "Lombardia"
+  },
+  {
+    "Altitude": 233,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000749",
+    "Latitude": 45.0373,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6738,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 234,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000750",
+    "Latitude": 45.0394,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6744,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 233,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000751",
+    "Latitude": 45.0383,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6739,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 233,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000752",
+    "Latitude": 45.0384,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.674,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 233,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000753",
+    "Latitude": 45.0383,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6738,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 233,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000754",
+    "Latitude": 45.0382,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6737,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 233,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000755",
+    "Latitude": 45.0381,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.674,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 233,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000756",
+    "Latitude": 45.0383,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.674,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 232,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000757",
+    "Latitude": 45.0371,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6742,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 231,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000758",
+    "Latitude": 45.0371,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6747,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 230,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000759",
+    "Latitude": 45.037,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.675,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 230,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000760",
+    "Latitude": 45.0371,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.675,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 231,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000761",
+    "Latitude": 45.037,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6745,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 230,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000762",
+    "Latitude": 45.0372,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.675,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 230,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000763",
+    "Latitude": 45.0371,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6751,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 229,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000764",
+    "Latitude": 45.0371,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6752,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 229,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000765",
+    "Latitude": 45.0372,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6752,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 230,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000766",
+    "Latitude": 45.0372,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6751,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 234,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000767",
+    "Latitude": 45.039,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6742,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 234,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000768",
+    "Latitude": 45.0395,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6744,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 234,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000769",
+    "Latitude": 45.0394,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6745,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 235,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000770",
+    "Latitude": 45.0392,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6743,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 235,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000771",
+    "Latitude": 45.0394,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6743,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 235,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000772",
+    "Latitude": 45.0395,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6743,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 234,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000773",
+    "Latitude": 45.0394,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6746,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 234,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000774",
+    "Latitude": 45.0393,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6745,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 234,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000775",
+    "Latitude": 45.0392,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6744,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 235,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000776",
+    "Latitude": 45.0393,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6743,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 234,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000777",
+    "Latitude": 45.0393,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6746,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 234,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000778",
+    "Latitude": 45.0392,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6746,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 293,
+    "City": "Grugliasco",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000779",
+    "Latitude": 45.0671097,
+    "Locality": "Veterinary Teaching Hospital of Department of Veterinary Scienc",
+    "Longitude": 7.589182,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 234,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000780",
+    "Latitude": 45.0395,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6746,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 234,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000781",
+    "Latitude": 45.0391,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6744,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 234,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000782",
+    "Latitude": 45.0393,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6744,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 235,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000783",
+    "Latitude": 45.0391,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6742,
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Chiusavecchia",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000784",
+    "Region": "Liguria"
+  },
+  {
+    "City": "Ormea",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000785",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Parenti",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000786",
+    "Region": "Calabria"
+  },
+  {
+    "City": "Perlo",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000787",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Villanova Mondovì",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000788",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Vercelli",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000789",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "vercelli",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000790",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Scalenghe",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000791",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Scarnafigi",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000792",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Caraglio",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000793",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Cavour",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000794",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Manta",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000795",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Villanova Mondovì",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000796",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Chiusavecchia",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000797",
+    "Region": "Liguria"
+  },
+  {
+    "City": "Cercenasco",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000798",
+    "Region": "Piemonte"
+  },
+  {
+    "City": "Roma",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000799",
+    "Region": "Lazio"
+  },
+  {
+    "City": "Cumiana",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000800",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Fermo",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000801",
+    "Locality": "Porto San Giorgio",
+    "Region": "Marche"
+  },
+  {
+    "City": "Fermo",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000802",
+    "Region": "Marche"
+  },
+  {
+    "City": "Fermo",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000803",
+    "Locality": "Porto San Giorgio",
+    "Region": "Marche"
+  },
+  {
+    "City": "Grugliasco",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000804",
+    "Latitude": 45.0671097,
+    "Longitude": 7.589182,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 293,
+    "City": "Grugliasco",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000805",
+    "Latitude": 45.0671097,
+    "Longitude": 7.589182,
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Revello (CN)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000806",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Manta (CN)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000807",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Scarnafigi (CN)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000808",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Verzuolo (CN)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000809",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Lagnasco (CN)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000810",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Murazzano (CN)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000811",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Rodello (CN)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000812",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Cavaglià (BI)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000813",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Murazzano (CN)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000814",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Lu and Cuccaro (AL)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000815",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Civitavecchia",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000816",
+    "Region": "Liguria"
+  },
+  {
+    "City": "Grugliasco",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000817",
+    "Locality": "Veterinary Teaching Hospital of Dep. of Veterinary Science",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Ancona",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000818",
+    "Region": "Marche"
+  },
+  {
+    "City": "Pordenone",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000819",
+    "Region": "Friuli Venezia Giulia"
+  },
+  {
+    "City": "Pavia",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000820",
+    "Region": "Lombardia"
+  },
+  {
+    "City": "Venezia",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000821",
+    "Locality": "Cavallino Tre Porti",
+    "Region": "Veneto"
+  },
+  {
+    "City": "Venezia",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000822",
+    "Locality": "Cavallino Treporti",
+    "Region": "Veneto"
+  },
+  {
+    "City": "Milano",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000823",
+    "Region": "Lombardia"
+  },
+  {
+    "City": "Milano",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000824",
+    "Region": "Lombardia"
+  },
+  {
+    "City": "Lodi",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000825",
+    "Locality": "Codogno",
+    "Region": "Lombardia"
+  },
+  {
+    "City": "Mantova",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000826",
+    "Region": "Lombardia"
+  },
+  {
+    "City": "Cumiana",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000827",
+    "Region": "Piemonte"
+  },
+  {
+    "City": "Torino",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000828",
+    "Region": "Piemonte"
+  },
+  {
+    "City": "Bergamo",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000829",
+    "Region": "Lombardia"
+  },
+  {
+    "City": "Agrigento",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000830",
+    "Region": "Sicilia"
+  },
+  {
+    "City": "Cavallermaggiore",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000831",
+    "Region": "Piemonte"
+  },
+  {
+    "City": "Torino",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000832",
+    "Locality": "Grugliasco",
+    "Region": "Piemonte"
+  },
+  {
+    "City": "Cuneo",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000833",
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 233,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000834",
+    "Latitude": 45.0382,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.674,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 233,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000835",
+    "Latitude": 45.038,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6739,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 234,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000836",
+    "Latitude": 45.0383,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6736,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 232,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000837",
+    "Latitude": 45.0383,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6741,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 236,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000838",
+    "Latitude": 45.0381,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6729,
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Cuneo",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000839",
+    "Locality": "Centallo",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Cuneo",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000840",
+    "Locality": "Centallo",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Vigone",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000841",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Mazzè",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000842",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Mazzè",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000843",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Carignano",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000844",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "San Zenone degli Ezzellini (VI)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000845",
+    "Region": "Veneto"
+  },
+  {
+    "City": "Livorno Ferraris (VC)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000846",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Cigliano (VC)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000847",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Crescentino (VC)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000848",
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "United States of America",
+    "CountryCode": "US",
+    "ID": "L000849"
+  },
+  {
+    "Country": "Türkiye",
+    "CountryCode": "TR",
+    "ID": "L000850"
+  },
+  {
+    "Country": "Albania",
+    "CountryCode": "AL",
+    "ID": "L000851",
+    "Region": "Tropoje"
+  },
+  {
+    "City": "Scarnafigi (CN)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000852",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Dogliani (CN)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000853",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Castiglione Falletto",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000854",
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000855",
+    "Region": "Calabria"
+  },
+  {
+    "City": "Pollein (AO)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000856",
+    "Region": "Aosta valley"
+  },
+  {
+    "City": "Jovencan",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000857",
+    "Region": "Aosta valley"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000858",
+    "Region": "Aosta valley"
+  },
+  {
+    "City": "Donnas",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000859",
+    "Region": "Aosta valley"
+  },
+  {
+    "City": "Genova",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000860",
+    "Region": "Ligury"
+  },
+  {
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000861",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Fossano",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000862",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Pinerolo",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000863",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Pavone Canavese",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000864",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Rome",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000865",
+    "Region": "Lazio"
+  },
+  {
+    "City": "Viterbo",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000866",
+    "Region": "Lazio"
+  },
+  {
+    "City": "Rivoli",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000867",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Rome",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000868",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Carrara",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000869",
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Naples",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000870",
+    "Region": "Campania"
+  },
+  {
+    "City": "Sassari",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000871",
+    "Region": "Sardinia"
+  },
+  {
+    "City": "Parma",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000872",
+    "Region": "Emilia Romagna"
+  },
+  {
+    "City": "Parma",
+    "Country": "italy",
+    "CountryCode": "IT",
+    "ID": "L000873",
+    "Region": "Emilia Romagna"
+  },
+  {
+    "City": "Sanzeno  (TN)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000874",
+    "Region": "Trentino-Alto Adige"
+  },
+  {
+    "City": "Tassullo (TN)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000875",
+    "Region": "Trentino-Alto Adige"
+  },
+  {
+    "City": "Tuenno (TN)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000876",
+    "Region": "Trentino-Alto Adige"
+  },
+  {
+    "City": "Masi di Vigo (TN)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000877",
+    "Region": "Trentino-Alto Adige"
+  },
+  {
+    "City": "Dardine (TN)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000878",
+    "Region": "Trentino-Alto Adige"
+  },
+  {
+    "City": "Smarano (TN)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000879",
+    "Region": "Trentino-Alto Adige"
+  },
+  {
+    "City": "Cloz (TN)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000880",
+    "Region": "Trentino-Alto Adige"
+  },
+  {
+    "City": "Brez (TN)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000881",
+    "Region": "Trentino-Alto Adige"
+  },
+  {
+    "City": "Dercolo (TN)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000882",
+    "Region": "Trentino-Alto Adige"
+  },
+  {
+    "City": "Termon (TN)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000883",
+    "Region": "Trentino-Alto Adige"
+  },
+  {
+    "City": "Vigo di Ton (TN)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000884",
+    "Region": "Trentino-Alto Adige"
+  },
+  {
+    "City": "Denno (TN)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000885",
+    "Region": "Trentino-Alto Adige"
+  },
+  {
+    "City": "Cavizzana (TN)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000886",
+    "Region": "Trentino-Alto Adige"
+  },
+  {
+    "Altitude": 234,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000887",
+    "Latitude": 45.0396,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6747,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 232,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000888",
+    "Latitude": 45.0379,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6741,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 232,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000889",
+    "Latitude": 45.0381,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6741,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 232,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000890",
+    "Latitude": 45.0381,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6742,
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Pavia",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000891",
+    "Region": "Lombardia"
+  },
+  {
+    "City": "Monteu Roero (CN)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000892",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Albaretto Torre (CN)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000893",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Albaretto Torre (CN)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000894",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Diano d'Alba (CN)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000895",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Roma",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000896",
+    "Locality": "Circeo North",
+    "Region": "Lazio"
+  },
+  {
+    "City": "Roma",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000897",
+    "Locality": "Isola Verde (Nettuno)",
+    "Region": "Lazio"
+  },
+  {
+    "City": "Roma",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000898",
+    "Locality": "La Campana (Nettuno)",
+    "Region": "Lazio"
+  },
+  {
+    "City": "Roma",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000899",
+    "Locality": "La Gallinara",
+    "Region": "Lazio"
+  },
+  {
+    "City": "Garessio",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000900",
+    "Locality": "Colle Casotto",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Oulx",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000901",
+    "Locality": "Monfol",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Peveragno",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000902",
+    "Region": "Piedmont"
+  },
+  {
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000903",
+    "Region": "Friuli-Venezia Giulia"
+  },
+  {
+    "City": "Viverone",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000904",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Pettinengo",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000905",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Cercenasco",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000906",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Settimo Vittone",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000907",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Asti",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000908",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Sondrio",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000909",
+    "Region": "Lombardy"
+  },
+  {
+    "City": "Torre Pellice",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000910",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "cumiana",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000911",
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 289,
+    "City": "Grugliasco",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000912",
+    "Latitude": 45.0673,
+    "Locality": "Veterinay Teaching Hospital, University",
+    "Longitude": 7.5923,
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Airasca",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000913",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Firenze",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000914",
+    "Region": "Tuscany"
+  },
+  {
+    "City": "Valbrembo",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000915",
+    "Locality": "Parco faunistico 'Le Cornelle'",
+    "Region": "Lombardy"
+  },
+  {
+    "Altitude": 233,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000916",
+    "Latitude": 45.0373,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.638,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 233,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000917",
+    "Latitude": 45.0373,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.738,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 233,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000918",
+    "Latitude": 45.0373,
+    "Locality": "Circoscrizione 3",
+    "Longitude": 7.6738,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 233,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000919",
+    "Latitude": 45.0373,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.678,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 233,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000920",
+    "Latitude": 45.0378,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6738,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 233,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000921",
+    "Latitude": 45.0378,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.638,
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Manta (CN)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000922",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Boves (CN)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000923",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Nizza Monferrato (AT)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000924",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Nizza Monferrato",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000925",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Moretta (CN)",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000926",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Rodi D'Alba",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000927",
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 234,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000928",
+    "Latitude": 45.0383,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6737,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 233,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000929",
+    "Latitude": 45.0385,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6739,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 233,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000930",
+    "Latitude": 45.0384,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6739,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 233,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000931",
+    "Latitude": 45.0382,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6738,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 232,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000932",
+    "Latitude": 45.0384,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6741,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 234,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000933",
+    "Latitude": 45.0384,
+    "Locality": "Circoscrizione 8",
+    "Longitude": 7.6738,
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Racconigi",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000934",
+    "Locality": "CRAS",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Racconigi",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000935",
+    "Locality": "CRAS",
+    "Region": "Piedmont"
+  },
+  {
+    "City": "Valbrembo",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000936",
+    "Locality": "Parco faunistico 'Le Cornelle'",
+    "Region": "Lombardy"
+  },
+  {
+    "City": "Valbrembo",
+    "Country": "italy",
+    "CountryCode": "IT",
+    "ID": "L000937",
+    "Locality": "Parco faunistico 'Le Cornelle'",
+    "Region": "Lombardy"
+  },
+  {
+    "City": "Valbrembo",
+    "Country": "italy",
+    "CountryCode": "IT",
+    "ID": "L000938",
+    "Locality": "Parco faunistico 'Le Cornelle'",
+    "Region": "Lombardy"
+  },
+  {
+    "City": "Sarzana",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000939",
+    "Region": "Liguria"
+  },
+  {
+    "City": "Sarzana",
+    "Country": "italy",
+    "CountryCode": "IT",
+    "ID": "L000940",
+    "Region": "Liguria"
+  },
+  {
+    "City": "Sarzana",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000941",
+    "Region": "Liguria"
+  },
+  {
+    "Altitude": 235,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000942",
+    "Latitude": 45.0393,
+    "Locality": "Turin",
+    "Longitude": 7.674,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 235,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000943",
+    "Latitude": 45.0391,
+    "Longitude": 7.6741,
+    "Region": "Piedmont"
+  },
+  {
+    "Altitude": 235,
+    "City": "Turin",
+    "Country": "Italy",
+    "CountryCode": "IT",
+    "ID": "L000944",
+    "Latitude": 45.0392,
+    "Longitude": 7.674,
+    "Region": "Piedmont"
+  }
+]

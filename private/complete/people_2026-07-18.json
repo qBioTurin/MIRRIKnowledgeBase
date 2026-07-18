@@ -1,0 +1,1867 @@
+[
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Edoardo",
+    "ID": "P000002",
+    "Institution": "Università di Torino",
+    "LName": "Accattino"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Antonella",
+    "ID": "P000006",
+    "Institution": "Università di Torino",
+    "LName": "Anastasi"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Scuola di Bioscienze e Medicina Veterinaria",
+    "FName": "Anna Rita",
+    "ID": "P000009",
+    "Institution": "Università di Camerino",
+    "LName": "Attili"
+  },
+  {
+    "Country": "Italy",
+    "FName": "S",
+    "ID": "P000017",
+    "Institution": "Università di Pisa",
+    "LName": "Becarelli"
+  },
+  {
+    "FName": "E",
+    "ID": "P000021",
+    "LName": "Berni"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Federico",
+    "ID": "P000022",
+    "Institution": "Università di Torino",
+    "LName": "Bevione"
+  },
+  {
+    "FName": "C",
+    "ID": "P000026",
+    "LName": "Bosio"
+  },
+  {
+    "Country": "Tunisia",
+    "FName": "Abderrahmene",
+    "ID": "P000027",
+    "Institution": "Universite de Monastir",
+    "LName": "Bouraoui"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Elena",
+    "ID": "P000029",
+    "Institution": "Università di Torino",
+    "LName": "Bovio"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Isabella",
+    "ID": "P000032",
+    "Institution": "Università di Pisa",
+    "LName": "Buttino"
+  },
+  {
+    "FName": "P",
+    "ID": "P000036",
+    "LName": "Capretti"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Raffaele",
+    "ID": "P000039",
+    "Institution": "Università di Torino",
+    "LName": "Cavaliere"
+  },
+  {
+    "Country": "Italy",
+    "ID": "P000047",
+    "Institution": "Centro Interuniversitario di Biologia Marina ed Ecologia Applicata “G. Bacci” (CIBM)",
+    "LName": "CIBM"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Agrarie, Forestali e Alimentari",
+    "FName": "Luca Simone",
+    "ID": "P000048",
+    "Institution": "Università di Torino",
+    "LName": "Cocolin"
+  },
+  {
+    "FName": "P",
+    "ID": "P000051",
+    "LName": "Corral"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Domenico",
+    "ID": "P000058",
+    "Institution": "INAIL",
+    "LName": "Davolos"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Biotecnologie Marine",
+    "FName": "Donatella",
+    "ID": "P000063",
+    "Institution": "Stazione Zoologica Anton Dohrn",
+    "LName": "De Pascale"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Davide",
+    "ID": "P000064",
+    "Institution": "Università di Pavia",
+    "LName": "De Simeis"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Simona",
+    "ID": "P000065",
+    "Institution": "Università di Pisa",
+    "LName": "Di Gregorio"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Agrarie, Forestali e Alimentari",
+    "FName": "Paola",
+    "ID": "P000069",
+    "Institution": "Università di Torino",
+    "LName": "Dolci"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Agrarie, Forestali e Alimentari",
+    "FName": "Vasileios",
+    "ID": "P000073",
+    "Institution": "Università di Torino",
+    "LName": "Englezos"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Sergio Enrico",
+    "ID": "P000075",
+    "Institution": "Università di Torino",
+    "LName": "Favero Longo"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Davide",
+    "ID": "P000076",
+    "Institution": "Università di Torino",
+    "LName": "Ferrero"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Ilaria",
+    "ID": "P000078",
+    "Institution": "Università di Torino",
+    "LName": "Filippi"
+  },
+  {
+    "Country": "Ireland",
+    "FName": "Daria",
+    "ID": "P000080",
+    "Institution": "University of Ireland",
+    "LName": "Firsova"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Matteo",
+    "ID": "P000081",
+    "Institution": "Università di Torino",
+    "LName": "Florio Furno"
+  },
+  {
+    "FName": "Raffaella",
+    "ID": "P000085",
+    "LName": "Gandolfi"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Laura",
+    "ID": "P000087",
+    "Institution": "Università di Torino",
+    "LName": "Garzoli"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Claudia",
+    "ID": "P000089",
+    "Institution": "Università di Torino",
+    "LName": "Gazzano"
+  },
+  {
+    "FName": "S",
+    "ID": "P000092",
+    "LName": "Gentile"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Agrarie, Forestali e Alimentari",
+    "FName": "Luana",
+    "ID": "P000099",
+    "Institution": "Università di Torino",
+    "LName": "Giordano"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Mariangela",
+    "ID": "P000100",
+    "Institution": "Università di Torino",
+    "LName": "Girlanda"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Giorgio",
+    "ID": "P000102",
+    "Institution": "Università di Torino",
+    "LName": "Gnavi"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Agrarie, Forestali e Alimentari",
+    "FName": "Paolo",
+    "ID": "P000104",
+    "Institution": "Università di Torino",
+    "LName": "Gonthier"
+  },
+  {
+    "Country": "Italy",
+    "ID": "P000107",
+    "Institution": "GRAPE SRL",
+    "LName": "GRAPE SRL"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Agrarie, Forestali e Alimentari",
+    "FName": "Micol",
+    "ID": "P000112",
+    "Institution": "Università di Torino",
+    "LName": "Guaschino"
+  },
+  {
+    "FName": "F",
+    "ID": "P000113",
+    "LName": "Guglielmo"
+  },
+  {
+    "FName": "N",
+    "ID": "P000119",
+    "LName": "Hess"
+  },
+  {
+    "FName": "K",
+    "ID": "P000128",
+    "LName": "Korhonen"
+  },
+  {
+    "Country": "Russia",
+    "Dept": "IEGM bacteria collection",
+    "FName": "Maria",
+    "ID": "P000129",
+    "Institution": "Perm State University",
+    "LName": "Kuyukina"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Disafa",
+    "FName": "Angelica",
+    "ID": "P000132",
+    "Institution": "Università di Torino",
+    "LName": "Laera"
+  },
+  {
+    "FName": "P",
+    "ID": "P000134",
+    "LName": "Lakomy"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Alexandra",
+    "ID": "P000136",
+    "Institution": "Università di Torino",
+    "LName": "Lazzari"
+  },
+  {
+    "FName": "J",
+    "ID": "P000137",
+    "LName": "Libor"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Agrarie, Forestali e Alimentari",
+    "FName": "Guglielmo",
+    "ID": "P000138",
+    "Institution": "Università di Torino",
+    "LName": "Lione"
+  },
+  {
+    "FName": "I",
+    "ID": "P000144",
+    "LName": "Marafante"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Elena",
+    "ID": "P000146",
+    "Institution": "Università di Torino",
+    "LName": "Martino"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Agrarie, Forestali e Alimentari",
+    "FName": "Ilaria",
+    "ID": "P000147",
+    "Institution": "Università di Torino",
+    "LName": "Martino"
+  },
+  {
+    "Country": "Ireland",
+    "FName": "G",
+    "ID": "P000149",
+    "Institution": "University of Ireland",
+    "LName": "McCormack"
+  },
+  {
+    "FName": "S",
+    "ID": "P000152",
+    "LName": "Michelotti"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Anna",
+    "ID": "P000153",
+    "Institution": "Università di Torino",
+    "LName": "Micheluz"
+  },
+  {
+    "FName": "M",
+    "ID": "P000155",
+    "LName": "Montanari"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Agrarie, Forestali e Alimentari",
+    "FName": "Muhammad",
+    "ID": "P000160",
+    "Institution": "Università di Torino",
+    "LName": "Waqas"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Veterinarie",
+    "FName": "Patrizia",
+    "ID": "P000165",
+    "Institution": "Università di Torino",
+    "LName": "Nebbia"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "IPSP",
+    "FName": "Luca",
+    "ID": "P000166",
+    "Institution": "CNR",
+    "LName": "Nerva"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Luca",
+    "ID": "P000167",
+    "Institution": "Università d Pisa",
+    "LName": "Niccolini"
+  },
+  {
+    "FName": "W",
+    "ID": "P000170",
+    "LName": "Otrosina"
+  },
+  {
+    "FName": "F",
+    "ID": "P000172",
+    "LName": "Palma Esposito"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Luigi",
+    "ID": "P000173",
+    "Institution": "Università di Torino",
+    "LName": "Panno"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Veterinarie",
+    "FName": "Andrea",
+    "ID": "P000176",
+    "Institution": "Università di Torino",
+    "LName": "Peano"
+  },
+  {
+    "FName": "D",
+    "ID": "P000177",
+    "LName": "Pecollo"
+  },
+  {
+    "Country": "Italy",
+    "ID": "P000178",
+    "Institution": "PELAGOSPHERA",
+    "LName": "PELAGOSPHERA"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Flavia",
+    "ID": "P000190",
+    "Institution": "CNR Montelibretti",
+    "LName": "Pinzari"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Anna",
+    "ID": "P000191",
+    "Institution": "Università di Torino",
+    "LName": "Poli"
+  },
+  {
+    "Country": "Russia",
+    "FName": "Natalia",
+    "ID": "P000192",
+    "Institution": "Russian Academy of Sciences",
+    "LName": "Pozdnyakova"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Agrarie, Forestali e Alimentari",
+    "FName": "Simona",
+    "ID": "P000193",
+    "Institution": "Università di Torino",
+    "LName": "Prencipe"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Valeria",
+    "ID": "P000194",
+    "Institution": "Università di Torino",
+    "LName": "Prigione"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Stefano",
+    "ID": "P000197",
+    "Institution": "Università di Torino",
+    "LName": "Quadro"
+  },
+  {
+    "FName": "S",
+    "ID": "P000201",
+    "LName": "Ricca"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Veterinarie",
+    "FName": "Patrizia",
+    "ID": "P000203",
+    "Institution": "Università di Torino",
+    "LName": "Robino"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Alice",
+    "ID": "P000205",
+    "Institution": "Università di Torino",
+    "LName": "Romagnolo"
+  },
+  {
+    "FName": "G",
+    "ID": "P000207",
+    "LName": "Ruggeri"
+  },
+  {
+    "Country": "Tunisia",
+    "FName": "Abir",
+    "ID": "P000210",
+    "Institution": "University of Tunis El Manar",
+    "LName": "Saoudi"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Veterinarie",
+    "FName": "Daniela",
+    "ID": "P000212",
+    "Institution": "Università di Torino",
+    "LName": "Scalas"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Stefano",
+    "ID": "P000215",
+    "Institution": "Università di Pavia",
+    "LName": "Serra"
+  },
+  {
+    "Country": "France",
+    "FName": "Estelle",
+    "ID": "P000217",
+    "Institution": "University Nice Côte d’Azur",
+    "LName": "Sfecci"
+  },
+  {
+    "FName": "Petr",
+    "ID": "P000218",
+    "LName": "Sedlak"
+  },
+  {
+    "Country": "Italy",
+    "FName": "G",
+    "ID": "P000223",
+    "Institution": "Università di Pisa",
+    "LName": "Siracusa"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Agrarie, Forestali e Alimentari",
+    "FName": "Davide",
+    "ID": "P000224",
+    "Institution": "Università di Torino",
+    "LName": "Spadaro"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Federica",
+    "ID": "P000227",
+    "Institution": "Università di Torino",
+    "LName": "Spina"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Irene",
+    "ID": "P000229",
+    "Institution": "Università di Torino",
+    "LName": "Stefanini"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Valeria",
+    "ID": "P000237",
+    "Institution": "Università di Torino",
+    "LName": "Tigini"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della Terra e dell'Ambiente",
+    "FName": "Solveig",
+    "ID": "P000239",
+    "Institution": "Università di Pavia",
+    "LName": "Tosi"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Chiara",
+    "ID": "P000241",
+    "Institution": "Università di Torino",
+    "LName": "Traina"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "IPSP",
+    "FName": "Massimo",
+    "ID": "P000248",
+    "Institution": "CNR",
+    "LName": "Turina"
+  },
+  {
+    "Country": "Poland",
+    "FName": "Katarzyna",
+    "ID": "P000250",
+    "Institution": "Jagiellonian University",
+    "LName": "Turnau"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Giovanna Cristina",
+    "ID": "P000252",
+    "Institution": "Università di Torino",
+    "LName": "Varese"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Andrea",
+    "ID": "P000265",
+    "Institution": "Università di Torino",
+    "LName": "Zanellati"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Department of Public Health and Pediatrics",
+    "FName": "Antonio",
+    "ID": "P000270",
+    "Institution": "University of Turin,  A.O.U. Città della Salute e della Scienza di Torino",
+    "LName": "Curtoni"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Department of Agricultural, Forest and Food Sciences",
+    "FName": "Cristian",
+    "ID": "P000273",
+    "Institution": "University of Torino",
+    "LName": "Botta"
+  },
+  {
+    "FName": "L.B.",
+    "ID": "P000391",
+    "LName": "Dalya"
+  },
+  {
+    "FName": "L.",
+    "ID": "P000392",
+    "LName": "Tomsovsky"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Agrarie, Forestali e Alimentari",
+    "FName": "Valentina",
+    "ID": "P000395",
+    "Institution": "Università di Torino",
+    "LName": "Alessandria"
+  },
+  {
+    "FName": "Mariantonietta",
+    "ID": "P000396",
+    "LName": "Colagiero"
+  },
+  {
+    "FName": "Agustina",
+    "ID": "P000401",
+    "LName": "Fernandez di Pardo"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della Vita e Biologia dei Sistemi",
+    "FName": "Anita",
+    "ID": "P000426",
+    "Institution": "Università di Torino",
+    "LName": "Fiorin"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Agrarie, Forestali e Alimentari",
+    "FName": "Martina",
+    "ID": "P000432",
+    "Institution": "Università di Torino",
+    "LName": "Sanna"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Agrarie, Forestali e Alimentari",
+    "FName": "Giulia",
+    "ID": "P000433",
+    "Institution": "Università di Torino",
+    "LName": "Remolif"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Agrarie, Forestali e Alimentari",
+    "FName": "Greta",
+    "ID": "P000435",
+    "Institution": "Università di Torino",
+    "LName": "Dardani"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Agrarie, Forestali e Alimentari",
+    "FName": "Giulia",
+    "ID": "P000436",
+    "Institution": "Università di Torino",
+    "LName": "Tabone"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Veterinarie",
+    "FName": "Alessandra",
+    "ID": "P000439",
+    "Institution": "Università di Torino",
+    "LName": "Dalmasso"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Veterinarie",
+    "FName": "Pierluigi",
+    "ID": "P000440",
+    "Institution": "Università di Torino",
+    "LName": "Diciccio"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Agrarie, Forestali e Alimentari",
+    "FName": "Francesco",
+    "ID": "P000443",
+    "Institution": "Università di Torino",
+    "LName": "Aloi"
+  },
+  {
+    "Country": "Spain",
+    "Dept": "Biology",
+    "FName": "Marina",
+    "ID": "P000451",
+    "Institution": "Universidad de Las Palmas de Gran Canaria",
+    "LName": "Carrasco Acosta"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Agrarie, Forestali e Alimentari",
+    "FName": "Ilario",
+    "ID": "P000452",
+    "Institution": "Università di Torino",
+    "LName": "Ferrocino"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "DBIOS",
+    "FName": "Alessia",
+    "ID": "P000454",
+    "Institution": "UNITO",
+    "LName": "Reginato"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "DBIOS",
+    "FName": "Andrea Lara",
+    "ID": "P000455",
+    "Institution": "University of Torino",
+    "LName": "Marchitelli"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "DBIOS",
+    "FName": "Francesco",
+    "ID": "P000456",
+    "Institution": "University of Torino",
+    "LName": "Bergese"
+  },
+  {
+    "Country": "Monaco",
+    "FName": "Camille",
+    "ID": "P000457",
+    "Institution": "Centre Scientifique de Monaco",
+    "LName": "Prioux"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Agrarie, Forestali e Alimentari",
+    "FName": "Marco",
+    "ID": "P000458",
+    "Institution": "Università di Torino",
+    "LName": "Garello"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della Vita e Biologia dei Sistemi",
+    "FName": "Alessia",
+    "ID": "P000461",
+    "Institution": "Università di Torino",
+    "LName": "Romano"
+  },
+  {
+    "Country": "Egypt",
+    "FName": "Ahmed",
+    "ID": "P000001",
+    "Institution": "Suez Canal University",
+    "LName": "Abdel-Azeem"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Biologia Vegetale",
+    "FName": "Daniele",
+    "ID": "P000003",
+    "Institution": "Università di Torino",
+    "LName": "Airaudi"
+  },
+  {
+    "Country": "Azerbaijan",
+    "FName": "Dilzara N.",
+    "ID": "P000004",
+    "Institution": "Azerbaijan National Academy of Sciences",
+    "LName": "Aghayeva"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Adriana",
+    "ID": "P000005",
+    "Institution": "CNR",
+    "LName": "Alagna"
+  },
+  {
+    "Country": "Italy",
+    "ID": "P000007",
+    "Institution": "ARPA PIEMONTE",
+    "LName": "ARPA PIEMONTE"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Andrea",
+    "ID": "P000008",
+    "Institution": "GAIA Asti",
+    "LName": "Artusio"
+  },
+  {
+    "Country": "Italy",
+    "ID": "P000010",
+    "Institution": "ARPA Emilia Romagna",
+    "LName": "ARPA Emilia Romagna"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Biologia Vegetale",
+    "FName": "Claudia",
+    "ID": "P000014",
+    "Institution": "Università di Torino",
+    "LName": "Barretta"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Annarita",
+    "ID": "P000018",
+    "Institution": "Università di Torino",
+    "LName": "Belardo"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Biologia Vegetale",
+    "FName": "Roberta",
+    "ID": "P000019",
+    "Institution": "Università di Torino",
+    "LName": "Bergero"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Laura",
+    "ID": "P000020",
+    "Institution": "Università di Torino",
+    "LName": "Bertero"
+  },
+  {
+    "FName": "C",
+    "ID": "P000023",
+    "LName": "Bianco"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Maria Ausilia",
+    "ID": "P000024",
+    "Institution": "Università di Torino",
+    "LName": "Bianco"
+  },
+  {
+    "FName": "C",
+    "ID": "P000025",
+    "LName": "Bonavalle"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Fabrizio",
+    "ID": "P000031",
+    "Institution": "Università di Firenze",
+    "LName": "Briganti"
+  },
+  {
+    "FName": "A",
+    "ID": "P000033",
+    "LName": "Caffaz"
+  },
+  {
+    "Country": "Italy",
+    "ID": "P000034",
+    "Institution": "CAMPAL Associazioni Micologiche",
+    "LName": "CAMPAL"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Leonardo",
+    "ID": "P000037",
+    "Institution": "Università di Torino",
+    "LName": "Casieri"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Institute of the Science of Food Production",
+    "FName": "Laura",
+    "ID": "P000038",
+    "Institution": "ISPA-CNR",
+    "LName": "Cavallarin"
+  },
+  {
+    "Country": "The Netherlands",
+    "ID": "P000040",
+    "Institution": "CBS-KNAW Fungal Biodiversity Centre",
+    "LName": "CBS"
+  },
+  {
+    "Country": "Italy",
+    "ID": "P000044",
+    "Institution": "Chelab",
+    "LName": "Chelab"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Selene",
+    "ID": "P000045",
+    "Institution": "Università di Pavia",
+    "LName": "Chinaglia"
+  },
+  {
+    "FName": "E",
+    "ID": "P000050",
+    "LName": "Coppini"
+  },
+  {
+    "Country": "Sweden",
+    "ID": "P000052",
+    "LName": "Culture collection from SLU"
+  },
+  {
+    "ID": "P000053",
+    "LName": "Culture collection of basidiomycetes Instistute of microbiology CAS Dep. of experimental Mycologt"
+  },
+  {
+    "FName": "J",
+    "ID": "P000054",
+    "LName": "Cuvertino Santoni"
+  },
+  {
+    "ID": "P000056",
+    "LName": "Dalpé"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Biologia Vegetale",
+    "FName": "Giovanna",
+    "ID": "P000057",
+    "Institution": "Università di Torino",
+    "LName": "Dal Vesco"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Francesca",
+    "ID": "P000060",
+    "Institution": "Università degli Studi di Parma",
+    "LName": "Degola"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Renata",
+    "ID": "P000062",
+    "Institution": "CNR Messina",
+    "LName": "Denaro"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "DISTAV",
+    "FName": "Simone",
+    "ID": "P000066",
+    "Institution": "Università di Genova",
+    "LName": "Di Piazza"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "DI.VA.P.R.A",
+    "ID": "P000068",
+    "Institution": "Università di Torino",
+    "LName": "DI.VA.P.R.A"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Sandra",
+    "ID": "P000070",
+    "Institution": "SOREMARTEC",
+    "LName": "Drocco"
+  },
+  {
+    "ID": "P000071",
+    "LName": "Duclos & Fortin"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Biologia Vegetale",
+    "FName": "Valeria",
+    "ID": "P000077",
+    "Institution": "Università di Torino",
+    "LName": "Filipello"
+  },
+  {
+    "FName": "N",
+    "ID": "P000079",
+    "LName": "Figone"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Biologia Vegetale",
+    "FName": "Anna",
+    "ID": "P000082",
+    "Institution": "Università di Torino",
+    "LName": "Fontana"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Alessandro",
+    "ID": "P000088",
+    "Institution": "Università di Torino",
+    "LName": "Gatto"
+  },
+  {
+    "FName": "M",
+    "ID": "P000090",
+    "LName": "Gennaro"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Andrea",
+    "ID": "P000091",
+    "Institution": "Università di Torino",
+    "LName": "Genre"
+  },
+  {
+    "FName": "F",
+    "ID": "P000094",
+    "LName": "Giardini"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Samuele",
+    "ID": "P000095",
+    "Institution": "SILVATEAM",
+    "LName": "Giovando"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Manuela",
+    "ID": "P000096",
+    "Institution": "Università di Torino",
+    "LName": "Giraudo"
+  },
+  {
+    "FName": "A",
+    "ID": "P000097",
+    "LName": "Giraudo"
+  },
+  {
+    "FName": "M",
+    "ID": "P000098",
+    "LName": "Girelli"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Stefano",
+    "ID": "P000101",
+    "Institution": "CNR",
+    "LName": "Ghignone"
+  },
+  {
+    "ID": "P000103",
+    "LName": "Gogala"
+  },
+  {
+    "Country": "Italy",
+    "ID": "P000108",
+    "Institution": "Gruppi Micologici Piemonte",
+    "LName": "Gruppi Micologici Piemonte"
+  },
+  {
+    "Country": "Italy",
+    "ID": "P000109",
+    "Institution": "Gruppo Micologico Torinese",
+    "LName": "GMT"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Agrarie, Forestali e Alimentari",
+    "FName": "Vladimiro",
+    "ID": "P000110",
+    "Institution": "Università di Torino",
+    "LName": "Guarnaccia"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Irene",
+    "ID": "P000115",
+    "Institution": "Università di Torino",
+    "LName": "Grosso"
+  },
+  {
+    "ID": "P000116",
+    "LName": "Gruppo A.M.P."
+  },
+  {
+    "Country": "Italy",
+    "ID": "P000117",
+    "Institution": "Gruppo Micologico Boves",
+    "LName": "Gruppo Micologico Boves"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Annalisa",
+    "ID": "P000120",
+    "Institution": "Università di Torino",
+    "LName": "Ingaramo"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Marco",
+    "ID": "P000121",
+    "Institution": "Università di Torino",
+    "LName": "Isaia"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Agrarie, Forestali e Alimentari",
+    "FName": "Deborah",
+    "ID": "P000122",
+    "Institution": "Università di Torino",
+    "LName": "Isocrono"
+  },
+  {
+    "Country": "Tunisia",
+    "FName": "Atef",
+    "ID": "P000124",
+    "Institution": "University of Tunis El Manar",
+    "LName": "Jaouani"
+  },
+  {
+    "Country": "Italy",
+    "ID": "P000130",
+    "Institution": "Camera Commercio Torino",
+    "LName": "Laboratorio Chimico Camera Commercio Torino"
+  },
+  {
+    "FName": "N",
+    "ID": "P000140",
+    "LName": "Luisi"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Biologia Vegetale",
+    "FName": "Anna Maria",
+    "ID": "P000142",
+    "Institution": "Università di Torino",
+    "LName": "Luppi"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Massimo",
+    "ID": "P000150",
+    "Institution": "Università di Torino",
+    "LName": "Meregalli"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Aurora",
+    "ID": "P000156",
+    "Institution": "Università di Genova",
+    "LName": "Montemartini"
+  },
+  {
+    "FName": "G",
+    "ID": "P000157",
+    "LName": "Mori"
+  },
+  {
+    "ID": "P000158",
+    "LName": "Moricca"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita",
+    "FName": "Lucia",
+    "ID": "P000159",
+    "Institution": "Università di Trieste",
+    "LName": "Muggia"
+  },
+  {
+    "FName": "C",
+    "ID": "P000161",
+    "LName": "Muller"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Ingegneria Civile e Ambientale",
+    "FName": "Giulio",
+    "ID": "P000162",
+    "Institution": "Università di Firenze",
+    "LName": "Munz"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Giuseppe",
+    "ID": "P000174",
+    "Institution": "Università di Torino",
+    "LName": "Papa"
+  },
+  {
+    "Country": "China",
+    "Dept": "School of Pharmaceutical Science and Technology",
+    "FName": "Lorenzo",
+    "ID": "P000179",
+    "Institution": "Tianjin University",
+    "LName": "Pecoraro"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Silvia",
+    "ID": "P000180",
+    "Institution": "Università di Torino",
+    "LName": "Perotto"
+  },
+  {
+    "FName": "A",
+    "ID": "P000182",
+    "LName": "Persi"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Biologia Vegetale",
+    "FName": "Beniamino",
+    "ID": "P000184",
+    "Institution": "Università di Torino",
+    "LName": "Peyronel"
+  },
+  {
+    "ID": "P000185",
+    "LName": "Pharma Company"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Rosanna",
+    "ID": "P000188",
+    "Institution": "Università di Torino",
+    "LName": "Piervittori"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "DiSTAS",
+    "FName": "Edoardo",
+    "ID": "P000196",
+    "Institution": "Università Cattolica di Piacenza",
+    "LName": "Puglisi"
+  },
+  {
+    "ID": "P000199",
+    "LName": "Read"
+  },
+  {
+    "FName": "M",
+    "ID": "P000202",
+    "LName": "Richkova"
+  },
+  {
+    "FName": "W",
+    "ID": "P000206",
+    "LName": "Roncaglione"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Biologia Vegetale",
+    "FName": "Simonetta",
+    "ID": "P000208",
+    "Institution": "Università di Torino",
+    "LName": "Sampò"
+  },
+  {
+    "FName": "F",
+    "ID": "P000211",
+    "LName": "Sappa"
+  },
+  {
+    "Country": "Argentina",
+    "FName": "Telma",
+    "ID": "P000213",
+    "Institution": "Universitad Nacional de Rosario",
+    "LName": "Scarpeci"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Rossana",
+    "ID": "P000219",
+    "Institution": "Università di Torino",
+    "LName": "Segreto"
+  },
+  {
+    "Country": "Italy",
+    "ID": "P000225",
+    "Institution": "Speleological Group Le Grave (Verzino, KR)",
+    "LName": "Speleological Group Le Grave (Verzino, KR)"
+  },
+  {
+    "Country": "Italy",
+    "ID": "P000228",
+    "Institution": "Stazione sperimentale per l'industria delle conserve alimentari",
+    "LName": "SSICA"
+  },
+  {
+    "ID": "P000231",
+    "LName": "Straker & Mitchell"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Agrarie, Forestali e Alimentari",
+    "FName": "G",
+    "ID": "P000233",
+    "Institution": "Università di Torino",
+    "LName": "Tamietti"
+  },
+  {
+    "FName": "P",
+    "ID": "P000234",
+    "LName": "Tedesco"
+  },
+  {
+    "FName": "S",
+    "ID": "P000238",
+    "LName": "Timonen"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Mauro",
+    "ID": "P000242",
+    "Institution": "Università di Trieste",
+    "LName": "Tretiach"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Bruno",
+    "ID": "P000243",
+    "Institution": "SILVATEAM",
+    "LName": "Trocini"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Antonio",
+    "ID": "P000244",
+    "Institution": "Università di Torino",
+    "LName": "Trotta"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Agrarie, Alimentari ed Ambinetali",
+    "FName": "Benedetta",
+    "ID": "P000246",
+    "Institution": "Università di Perugia",
+    "LName": "Turchetti"
+  },
+  {
+    "Country": "Russia",
+    "FName": "Olga",
+    "ID": "P000249",
+    "Institution": "Institute of Biochemistry and Physiology of Plants and Microorganisms, Saratov",
+    "LName": "Turkovskaya"
+  },
+  {
+    "ID": "P000256",
+    "LName": "Vidotto"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Anna",
+    "ID": "P000257",
+    "Institution": "SOREMARTEC",
+    "LName": "Vinai"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Alfredo",
+    "ID": "P000258",
+    "Institution": "Università di Torino",
+    "LName": "Vizzini"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Samuele",
+    "ID": "P000259",
+    "Institution": "Università di Torino",
+    "LName": "Voyron"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "DISTAV",
+    "FName": "Mirca",
+    "ID": "P000267",
+    "Institution": "Università di Genova",
+    "LName": "Zotti"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Michela",
+    "ID": "P000274",
+    "Institution": "San Marco Veterinary Clinic, Via dell’Industria 3, 35030 Veggiano",
+    "LName": "De Lucia"
+  },
+  {
+    "FName": "N",
+    "ID": "P000279",
+    "LName": "Garnero"
+  },
+  {
+    "FName": "A.",
+    "ID": "P000286",
+    "LName": "Macchia"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "DIVAPRA",
+    "FName": "Quirico",
+    "ID": "P000287",
+    "Institution": "University of Torino",
+    "LName": "Migheli"
+  },
+  {
+    "FName": "S.",
+    "ID": "P000289",
+    "LName": "Tahsin"
+  },
+  {
+    "FName": "H.S.",
+    "ID": "P000290",
+    "LName": "Rhandawa"
+  },
+  {
+    "FName": "G.",
+    "ID": "P000291",
+    "LName": "Benzoni"
+  },
+  {
+    "FName": "M.",
+    "ID": "P000293",
+    "LName": "Öner"
+  },
+  {
+    "ID": "P000295",
+    "LName": "Cantini"
+  },
+  {
+    "ID": "P000303",
+    "LName": "Domenico"
+  },
+  {
+    "FName": "P.",
+    "ID": "P000304",
+    "LName": "Mischiati"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "DIVAPRA",
+    "ID": "P000305",
+    "Institution": "University of Torino",
+    "LName": "DIVAPRA"
+  },
+  {
+    "FName": "G.",
+    "ID": "P000306",
+    "LName": "Nicolotti"
+  },
+  {
+    "ID": "P000318",
+    "LName": "Verderone"
+  },
+  {
+    "FName": "V.",
+    "ID": "P000332",
+    "LName": "Gavazza"
+  },
+  {
+    "FName": "S.",
+    "ID": "P000333",
+    "LName": "Buonomo"
+  },
+  {
+    "FName": "D.",
+    "ID": "P000334",
+    "LName": "Cavallari"
+  },
+  {
+    "FName": "B.",
+    "ID": "P000335",
+    "LName": "Carlo"
+  },
+  {
+    "ID": "P000336",
+    "LName": "Leake"
+  },
+  {
+    "ID": "P000349",
+    "LName": "CMT"
+  },
+  {
+    "FName": "M.",
+    "ID": "P000351",
+    "LName": "Raimondo"
+  },
+  {
+    "FName": "M.",
+    "ID": "P000352",
+    "LName": "Clericuzio"
+  },
+  {
+    "FName": "B.",
+    "ID": "P000353",
+    "LName": "Striano"
+  },
+  {
+    "FName": "E.",
+    "ID": "P000364",
+    "LName": "Baretta"
+  },
+  {
+    "ID": "P000369",
+    "LName": "Rocco"
+  },
+  {
+    "Country": "United Kingdom",
+    "ID": "P000370",
+    "LName": "Genetic Resource Collection UK Centre"
+  },
+  {
+    "FName": "D.",
+    "ID": "P000372",
+    "LName": "Cariolato"
+  },
+  {
+    "FName": "F.",
+    "ID": "P000375",
+    "LName": "Brun"
+  },
+  {
+    "FName": "A.",
+    "ID": "P000376",
+    "LName": "Garibaldi"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Mario",
+    "ID": "P000383",
+    "Institution": "DVM",
+    "LName": "Pasquetti"
+  },
+  {
+    "Country": "Denmark",
+    "Dept": "Deprtment of Geosciences and Natural Resource Management",
+    "FName": "Nicole R. E.",
+    "ID": "P000427",
+    "Institution": "University of Copenhagen",
+    "LName": "Posth"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Agrarie, Forestali e Alimentari",
+    "FName": "Monica",
+    "ID": "P000431",
+    "Institution": "Università di Torino",
+    "LName": "Mezzalama"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Agrarie, Forestali e Alimentari",
+    "FName": "Simone",
+    "ID": "P000434",
+    "Institution": "Università di Torino",
+    "LName": "Bosco"
+  },
+  {
+    "Country": "Spain",
+    "FName": "J.",
+    "ID": "P000441",
+    "Institution": "Microbiology Collection of Yeast Cultures",
+    "LName": "Santa Maria"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "DISAFA",
+    "FName": "Francesco",
+    "ID": "P000453",
+    "Institution": "UNITO",
+    "LName": "Ferrero"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Raffaella",
+    "ID": "P000012",
+    "Institution": "CNR",
+    "LName": "Balestrini"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Simona",
+    "ID": "P000035",
+    "Institution": "GRAPE SRL",
+    "LName": "Campolongo"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Biologia Vegetale",
+    "FName": "Arturo",
+    "ID": "P000042",
+    "Institution": "Università di Torino",
+    "LName": "Ceruti"
+  },
+  {
+    "FName": "G",
+    "ID": "P000043",
+    "LName": "Cerutti"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Stefania",
+    "ID": "P000055",
+    "Institution": "Università di Torino",
+    "LName": "Daghino"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Anna Laura",
+    "ID": "P000074",
+    "Institution": "Gruppo Micologico Torinese",
+    "LName": "Fanelli"
+  },
+  {
+    "FName": "V",
+    "ID": "P000106",
+    "LName": "Gramaglia"
+  },
+  {
+    "Country": "Russia",
+    "FName": "Irina",
+    "ID": "P000123",
+    "Institution": "Perm State University",
+    "LName": "Ivshina"
+  },
+  {
+    "ID": "P000151",
+    "LName": "Messini"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Agrarie, Forestali e Alimentari",
+    "FName": "Valeria",
+    "ID": "P000186",
+    "Institution": "UniTO",
+    "LName": "Piattino"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Anna Maria",
+    "ID": "P000187",
+    "Institution": "Università di Pavia",
+    "LName": "Picco"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Francesco",
+    "ID": "P000200",
+    "Institution": "Università degli Studi di Parma",
+    "LName": "Restivo"
+  },
+  {
+    "Country": "The Netherlands",
+    "FName": "Robert A.",
+    "ID": "P000209",
+    "Institution": "CBS-KNAW Fungal Biodiversity Centre",
+    "LName": "Samson"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Laura",
+    "ID": "P000216",
+    "Institution": "Università degli Studi della Tuscia",
+    "LName": "Selbman"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Agrarie, Forestali e Alimentari",
+    "FName": "Fabiano",
+    "ID": "P000221",
+    "Institution": "Università di Torino",
+    "LName": "Sillo"
+  },
+  {
+    "FName": "JP",
+    "ID": "P000232",
+    "LName": "Studer"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Michail",
+    "ID": "P000263",
+    "Institution": "CNR",
+    "LName": "Yakimov"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Department of Sciences of Public Health and Pediatrics - Bacteriology and Mycology laboratory",
+    "ID": "P000268",
+    "Institution": "Università di Torino",
+    "LName": "Department of Sciences of Public Health and Pediatrics"
+  },
+  {
+    "FName": "Francesco",
+    "ID": "P000276",
+    "LName": "Molinari"
+  },
+  {
+    "FName": "Isabella",
+    "ID": "P000280",
+    "LName": "Pentimone"
+  },
+  {
+    "FName": "C.",
+    "ID": "P000282",
+    "LName": "Novotny"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze Veterinarie",
+    "FName": "Daniele",
+    "ID": "P000438",
+    "Institution": "Università di Torino",
+    "LName": "Pattono"
+  },
+  {
+    "Country": "Spain",
+    "FName": "L.",
+    "ID": "P000442",
+    "Institution": "Spanish Type Culture Collection (CECT)",
+    "LName": "Lopez-Ocaña"
+  },
+  {
+    "Country": "Belgium",
+    "Dept": "(Agro)industrial fungi & yeasts collection",
+    "ID": "P000016",
+    "Institution": "BCCM/MUCL",
+    "LName": "BCCM/MUCL"
+  },
+  {
+    "Country": "Italy",
+    "FName": "Aurelio",
+    "ID": "P000046",
+    "Institution": "CNR",
+    "LName": "Ciancio"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Pietro",
+    "ID": "P000145",
+    "Institution": "Università di Torino",
+    "LName": "Marchese"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "ID": "P000163",
+    "Institution": "Università di Torino",
+    "LName": "MUT"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Sara",
+    "ID": "P000168",
+    "Institution": "Università di Torino",
+    "LName": "Olari"
+  },
+  {
+    "FName": "G.R.",
+    "ID": "P000169",
+    "LName": "Orr"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della vita e biologia dei sistemi",
+    "FName": "Iolanda",
+    "ID": "P000183",
+    "Institution": "Università di Torino",
+    "LName": "Perugini"
+  },
+  {
+    "ID": "P000195",
+    "LName": "PRIMA"
+  },
+  {
+    "FName": "A.C.",
+    "ID": "P000230",
+    "LName": "Stolk"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Farmacia",
+    "FName": "Sheridan Lois",
+    "ID": "P000262",
+    "Institution": "Università degli Studi di Napoli Federico II",
+    "LName": "Woo"
+  },
+  {
+    "FName": "Talis",
+    "ID": "P000424",
+    "LName": "Gaitnieks"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "DBIOS",
+    "FName": "Jacopo",
+    "ID": "P000437",
+    "Institution": "UNITO",
+    "LName": "Tartaglia"
+  },
+  {
+    "Country": "Italy",
+    "Dept": "Dipartimento di Scienze della Vita e Biologia dei Sistemi - DBIOS",
+    "FName": "Francesco",
+    "ID": "P000448",
+    "Institution": "Università di Torino",
+    "LName": "Venice"
+  }
+]

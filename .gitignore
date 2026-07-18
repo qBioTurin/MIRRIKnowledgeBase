@@ -1,2 +1,3 @@
 raw
-private
+output
+__pycache__
