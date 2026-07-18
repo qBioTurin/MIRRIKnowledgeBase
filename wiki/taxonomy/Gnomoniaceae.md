@@ -1,0 +1,18 @@
+# Genus: Gnomoniaceae
+
+Records: 1.
+
+## Species
+
+### sp.
+
+Records: 1.
+
+| Accession | Organism type | Risk group | Source |
+| --- | --- | --- | --- |
+| [MUT00005312](../microorganisms/MUT00005312.md) | Filamentous Fungi |  | `raw/microorganisms/MUT00005312_COMPILED.json` |
+
+## Related Links
+
+- [KB index](../index.md)
+- [Taxonomy index](../taxonomy/index.md)
