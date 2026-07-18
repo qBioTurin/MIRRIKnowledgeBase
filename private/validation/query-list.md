@@ -135,3 +135,47 @@ Give me all organisms similar to `MUT00007136` by same genus.
 ## Q034
 
 Give me all organisms similar to `MUT00007136` by same species.
+
+## Q035
+
+Give me all strains included in 2024.
+
+## Q036
+
+Give me all strains deposited in 2019.
+
+## Q037
+
+Give me all strains collected in 2021.
+
+## Q038
+
+Give me all strains isolated on `20230515`.
+
+## Q039
+
+How many strains were included per year?
+
+## Q040
+
+How many strains were deposited per year?
+
+## Q041
+
+Which strains have missing `CollectionDate`?
+
+## Q042
+
+Which strains have missing `IsolationDate`?
+
+## Q043
+
+Which strains have `DepositDate` different from `InclusionDate`?
+
+## Q044
+
+Give me all strains collected before 2010.
+
+## Q045
+
+Give me all strains included after 2020.

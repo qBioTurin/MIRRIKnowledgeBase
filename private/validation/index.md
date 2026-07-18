@@ -854,3 +854,278 @@ Outputs:
 - Format: TSV with header
 - Columns: `accessionnumber`
 - Data rows: 6
+
+## Q035
+
+Request text:
+
+> Give me all strains included in 2024.
+
+Interpretation:
+
+List all strains whose explicit `InclusionDate` year is `2024`. The year is read from the first four digits of `InclusionDate`.
+
+For the database-side validation, the source is `private/complete/TUCC_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q035_inclusion_year_2024.py](../scripts/validation/Q035_inclusion_year_2024.py)
+
+Outputs:
+
+- Database file: [Q035_inclusion_year_2024.tsv](database/Q035_inclusion_year_2024.tsv)
+- Format: TSV with header
+- Columns: `accessionnumber`
+- Data rows: 679
+
+## Q036
+
+Request text:
+
+> Give me all strains deposited in 2019.
+
+Interpretation:
+
+List all strains whose explicit `DepositDate` year is `2019`. The year is read from the first four digits of `DepositDate`.
+
+For the database-side validation, the source is `private/complete/TUCC_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q036_deposit_year_2019.py](../scripts/validation/Q036_deposit_year_2019.py)
+
+Outputs:
+
+- Database file: [Q036_deposit_year_2019.tsv](database/Q036_deposit_year_2019.tsv)
+- Format: TSV with header
+- Columns: `accessionnumber`
+- Data rows: 203
+
+## Q037
+
+Request text:
+
+> Give me all strains collected in 2021.
+
+Interpretation:
+
+List all strains whose explicit `CollectionDate` year is `2021`. The year is read from the first four digits of `CollectionDate`.
+
+For the database-side validation, the source is `private/complete/TUCC_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q037_collection_year_2021.py](../scripts/validation/Q037_collection_year_2021.py)
+
+Outputs:
+
+- Database file: [Q037_collection_year_2021.tsv](database/Q037_collection_year_2021.tsv)
+- Format: TSV with header
+- Columns: `accessionnumber`
+- Data rows: 338
+
+## Q038
+
+Request text:
+
+> Give me all strains isolated on `20230515`.
+
+Interpretation:
+
+List all strains whose explicit `IsolationDate` field is exactly equal to `20230515`.
+
+For the database-side validation, the source is `private/complete/TUCC_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q038_isolation_date_20230515.py](../scripts/validation/Q038_isolation_date_20230515.py)
+
+Outputs:
+
+- Database file: [Q038_isolation_date_20230515.tsv](database/Q038_isolation_date_20230515.tsv)
+- Format: TSV with header
+- Columns: `accessionnumber`
+- Data rows: 59
+
+## Q039
+
+Request text:
+
+> How many strains were included per year?
+
+Interpretation:
+
+Group strains by the year of explicit `InclusionDate`, read from the first four digits, and count strains per year.
+
+For the database-side validation, the source is `private/complete/TUCC_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q039_inclusion_count_by_year.py](../scripts/validation/Q039_inclusion_count_by_year.py)
+
+Outputs:
+
+- Database file: [Q039_inclusion_count_by_year.tsv](database/Q039_inclusion_count_by_year.tsv)
+- Format: TSV with header
+- Columns: `year`, `strain_count`
+- Data rows: 53
+
+## Q040
+
+Request text:
+
+> How many strains were deposited per year?
+
+Interpretation:
+
+Group strains by the year of explicit `DepositDate`, read from the first four digits, and count strains per year.
+
+For the database-side validation, the source is `private/complete/TUCC_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q040_deposit_count_by_year.py](../scripts/validation/Q040_deposit_count_by_year.py)
+
+Outputs:
+
+- Database file: [Q040_deposit_count_by_year.tsv](database/Q040_deposit_count_by_year.tsv)
+- Format: TSV with header
+- Columns: `year`, `strain_count`
+- Data rows: 53
+
+## Q041
+
+Request text:
+
+> Which strains have missing `CollectionDate`?
+
+Interpretation:
+
+List all strains where the explicit `CollectionDate` field is absent or empty.
+
+For the database-side validation, the source is `private/complete/TUCC_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q041_collection_date_missing.py](../scripts/validation/Q041_collection_date_missing.py)
+
+Outputs:
+
+- Database file: [Q041_collection_date_missing.tsv](database/Q041_collection_date_missing.tsv)
+- Format: TSV with header
+- Columns: `accessionnumber`
+- Data rows: 185
+
+## Q042
+
+Request text:
+
+> Which strains have missing `IsolationDate`?
+
+Interpretation:
+
+List all strains where the explicit `IsolationDate` field is absent or empty.
+
+For the database-side validation, the source is `private/complete/TUCC_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q042_isolation_date_missing.py](../scripts/validation/Q042_isolation_date_missing.py)
+
+Outputs:
+
+- Database file: [Q042_isolation_date_missing.tsv](database/Q042_isolation_date_missing.tsv)
+- Format: TSV with header
+- Columns: `accessionnumber`
+- Data rows: 3910
+
+## Q043
+
+Request text:
+
+> Which strains have `DepositDate` different from `InclusionDate`?
+
+Interpretation:
+
+List all strains where both explicit `DepositDate` and explicit `InclusionDate` are present and their values differ.
+
+For the database-side validation, the source is `private/complete/TUCC_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q043_deposit_date_differs_from_inclusion_date.py](../scripts/validation/Q043_deposit_date_differs_from_inclusion_date.py)
+
+Outputs:
+
+- Database file: [Q043_deposit_date_differs_from_inclusion_date.tsv](database/Q043_deposit_date_differs_from_inclusion_date.tsv)
+- Format: TSV with header
+- Columns: `accessionnumber`, `depositdate`, `inclusiondate`
+- Data rows: 0
+
+## Q044
+
+Request text:
+
+> Give me all strains collected before 2010.
+
+Interpretation:
+
+List all strains whose explicit `CollectionDate` year is before `2010`. The year is read from the first four digits of `CollectionDate`.
+
+For the database-side validation, the source is `private/complete/TUCC_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q044_collection_before_2010.py](../scripts/validation/Q044_collection_before_2010.py)
+
+Outputs:
+
+- Database file: [Q044_collection_before_2010.tsv](database/Q044_collection_before_2010.tsv)
+- Format: TSV with header
+- Columns: `accessionnumber`
+- Data rows: 2510
+
+## Q045
+
+Request text:
+
+> Give me all strains included after 2020.
+
+Interpretation:
+
+List all strains whose explicit `InclusionDate` year is after `2020`. The year is read from the first four digits of `InclusionDate`.
+
+For the database-side validation, the source is `private/complete/TUCC_2026-07-18.json`.
+
+Knowledge-base validation is intentionally not generated.
+
+Script:
+
+- File: [Q045_inclusion_after_2020.py](../scripts/validation/Q045_inclusion_after_2020.py)
+
+Outputs:
+
+- Database file: [Q045_inclusion_after_2020.tsv](database/Q045_inclusion_after_2020.tsv)
+- Format: TSV with header
+- Columns: `accessionnumber`
+- Data rows: 2001

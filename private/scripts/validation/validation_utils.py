@@ -71,3 +71,12 @@ def field_equals(record: dict[str, Any], field: str, target: str) -> bool:
 def field_value(record: dict[str, Any], field: str) -> str:
     values = as_values(record.get(field))
     return values[0] if values else ""
+
+
+def field_year(record: dict[str, Any], field: str) -> str:
+    value = field_value(record, field)
+    return value[:4] if len(value) >= 4 and value[:4].isdigit() else ""
+
+
+def field_missing(record: dict[str, Any], field: str) -> bool:
+    return not as_values(record.get(field))
