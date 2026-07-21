@@ -33,9 +33,34 @@ The agent must never:
 
 Files in `private/` must be treated as unavailable to the agent, even when they appear relevant to a query or compilation task.
 
+Exception for validation query tests: when the user explicitly asks to run a
+query by ID using `private/validation/PROCESSING_GUIDE.md`, the agent may read
+only `private/validation/PROCESSING_GUIDE.md` and
+`private/validation/index.md`, with `private/validation/query-list.md` allowed
+only as a compact question list. The agent may write only its own results under
+`private/validation/knowledgebase/<agent-id>/`. These files are control
+materials, not answer sources. The answer itself must still be derived only
+from `wiki/`.
+
 ---
 
 ## Commands
+
+### `query`
+
+When the user asks to run a query by ID, for example `Q001`, follow
+`private/validation/PROCESSING_GUIDE.md`.
+
+Query runs must use only:
+
+* `private/validation/PROCESSING_GUIDE.md`;
+* `private/validation/index.md` as the query/output specification;
+* `private/validation/query-list.md` only as a compact question list, if useful;
+* `wiki/` as the knowledge source.
+
+Do not inspect `raw/`, `private/validation/database/`, validation scripts,
+expected-result files, or any other `private/` content while answering
+validation query tasks.
 
 ### `compile`
 

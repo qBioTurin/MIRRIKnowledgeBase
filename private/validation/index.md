@@ -1,6 +1,6 @@
 # Query Index
 
-Global rule: validation queries are generated for the database-side complete JSON source only. No knowledge-base validation output is generated unless explicitly requested later. No accession-prefix or collection-name filter is applied unless a request explicitly asks for one.
+Global rule: validation queries are generated for the database-side complete JSON source only. No accession-prefix or collection-name filter is applied unless a request explicitly asks for one.
 
 Question-only list: [query-list.md](query-list.md)
 
