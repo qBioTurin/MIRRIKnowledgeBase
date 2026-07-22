@@ -8,7 +8,7 @@ The goal is to answer the query using only the knowledge base under `wiki/` and 
 private/validation/knowledgebase/<model-id>/
 ```
 
-Process only the requested query.
+Process only the requested query. Do not finish before creating the file.
 
 ## Allowed files
 

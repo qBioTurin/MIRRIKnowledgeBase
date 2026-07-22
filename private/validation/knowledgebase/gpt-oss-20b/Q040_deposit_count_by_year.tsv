@@ -1,0 +1,2 @@
+year	strain_count
+$(cat /tmp/deposit_counts.tsv)
